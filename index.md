@@ -44,43 +44,39 @@ Shady Selim is a Human, Mobile & Web Evangelist, Think tank, UI/UX freak, Traine
 
 
 ### Shady Selim's Apps
-##Windows Mobile Apps (what remains from 42 published app):
-* [Microsoft Store Page](https://www.microsoft.com/en-us/store/search/apps?q=shady%20selim)
-* [Hidden Camera](https://www.microsoft.com/en-us/store/p/hidden-camera/9nblggh0fshd)
-* [Animals for Kids](https://www.microsoft.com/en-us/p/animals-for-kids/9nblggh0fs91)
-* [Egyptian Scientists](https://www.microsoft.com/en-us/store/p/egyptian-scientists/9nblgggzkw4j)
-* [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
-
-##Android mobile apps in different app stores:
-* [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
-* [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
-* [Quran - Egypt Shamarly Haramin print](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran)
-* [Material Quran](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran_Material)
-* [CIC Students](https://play.google.com/store/apps/details?id=com.zcic.cairocic)
-* [CIC CMS](https://play.google.com/store/apps/details?id=com.cic.cms)
-* [O2Share](https://play.google.com/store/apps/details?id=com.o2share.app)
-* [Wasly Client](https://play.google.com/store/apps/details?id=com.wasly.waslleclientapp)
-* [Wasly Driver](https://play.google.com/store/apps/details?id=com.wasly.drivers)
-* [Sheel](https://play.google.com/store/apps/details?id=sheelclient.wasltec.com.sheelclient)
-* [WASL AMANA](https://play.google.com/store/apps/details?id=com.wasltec.waslamana)
-* [Ratb.li - رتب لي](https://play.google.com/store/apps/details?id=com.itsmart.partyuser)
-* [Parent: Child Care App](https://play.google.com/store/apps/details?id=eu.parent.android.app)
-* [MyStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
-* [Business Insider](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.businessinsider)
-* [Engadget](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.engadget)
-* [Mashable](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.mashable)
-* [Lifehacker](http://android-apk.org/apk/com.Shady.lifehacker/1.0/ethanol-man/)
-* [Lifehacker](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.lifehacker)
-* [The Guardian](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.theguardian)
-* [TechCrunch](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.techcrunch)
-* [Unity](http://www.appszoom.com/android-app/unity-kxbrj.html)
-
-##iOS mobile apps:
-* [Ratb.li](https://apps.apple.com/us/app/ratb-li/id1308032045)
-* [MyStore](https://apps.apple.com/us/app/mystore/id1468736442)
-
-
-*Plus many was on Nokia store and now on Opera store, and many more others that have been removed by owners or store*
+ - Windows Mobile Apps (what remains from 42 published app):
+  - [Microsoft Store Page](https://www.microsoft.com/en-us/store/search/apps?q=shady%20selim)
+  - [Hidden Camera](https://www.microsoft.com/en-us/store/p/hidden-camera/9nblggh0fshd)
+  - [Animals for Kids](https://www.microsoft.com/en-us/p/animals-for-kids/9nblggh0fs91)
+  - [Egyptian Scientists](https://www.microsoft.com/en-us/store/p/egyptian-scientists/9nblgggzkw4j)
+  - [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
+ - Android mobile apps in different app stores:
+  - [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
+  - [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
+  - [Quran - Egypt Shamarly Haramin print](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran)
+  - [Material Quran](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran_Material)
+  - [CIC Students](https://play.google.com/store/apps/details?id=com.zcic.cairocic)
+  - [CIC CMS](https://play.google.com/store/apps/details?id=com.cic.cms)
+  - [O2Share](https://play.google.com/store/apps/details?id=com.o2share.app)
+  - [Wasly Client](https://play.google.com/store/apps/details?id=com.wasly.waslleclientapp)
+  - [Wasly Driver](https://play.google.com/store/apps/details?id=com.wasly.drivers)
+  - [Sheel](https://play.google.com/store/apps/details?id=sheelclient.wasltec.com.sheelclient)
+  - [WASL AMANA](https://play.google.com/store/apps/details?id=com.wasltec.waslamana)
+  - [Ratb.li - رتب لي](https://play.google.com/store/apps/details?id=com.itsmart.partyuser)
+  - [Parent: Child Care App](https://play.google.com/store/apps/details?id=eu.parent.android.app)
+  - [MyStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
+  - [Business Insider](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.businessinsider)
+  - [Engadget](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.engadget)
+  - [Mashable](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.mashable)
+  - [Lifehacker](http://android-apk.org/apk/com.Shady.lifehacker/1.0/ethanol-man/)
+  - [Lifehacker](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.lifehacker)
+  - [The Guardian](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.theguardian)
+  - [TechCrunch](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.techcrunch)
+  - [Unity](http://www.appszoom.com/android-app/unity-kxbrj.html)
+ - iOS mobile apps:
+  - [Ratb.li](https://apps.apple.com/us/app/ratb-li/id1308032045)
+  - [MyStore](https://apps.apple.com/us/app/mystore/id1468736442)
+ - Plus many was on Nokia store and now on Opera store, and many more others that have been removed by owners or store*
 
 ### Shady Selim's Certificates
 
