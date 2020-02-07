@@ -4,11 +4,11 @@ layout: default
 
 # Shady Selim's Bio 
 ([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))
-**Shady Selim is a** 
-| Human | Think Tank | Mobile & Web Evangelist 
-| Trainer | UI/UX freak | Official Google Speaker 
-| Leader | GDG Leader | Kotlin & Flutter Speaker 
-| Mentor | User Orineted | Guinness Records breaker
+### Shady Selim is a 
+| Human | Think Tank | Mobile & Web Evangelist |
+| Trainer | UI/UX freak | Official Google Speaker |
+| Leader | GDG Leader | Kotlin & Flutter Speaker |
+| Mentor | User Orineted | Guinness Records breaker |
 
 # Shady Selim's Published Work
 * [Usability - The key for success or failure of web projects](https://www.grin.com/document/196416)
@@ -99,3 +99,6 @@ layout: default
     - 
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [Announ.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
+```
+Plus lots more if you have time ;)
+```
