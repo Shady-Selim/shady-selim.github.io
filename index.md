@@ -5,6 +5,7 @@ layout: default
 # Shady Selim's Bio 
 ([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))
 ## Shady Selim is a 
+| head1     | head two      | three                    |
 |:----------|:--------------|:-------------------------|
 | Human     | Think Tank    | Mobile & Web Evangelist  |
 | Trainer   | UI/UX freak   | Official Google Speaker  |
@@ -91,7 +92,7 @@ layout: default
 * [Shady Selim full speech from 2016 GDG 6October DevFest](https://youtu.be/XdcGt-hf4bs)
 - None Paid Volunteering Community Activities
   - 2015
-    - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [Announ.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
+    - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [ann.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
     - 1st Google Developers Summit - Deliver a crash course workshop in Google Play Game service ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.532928683537189/532928880203836/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/536686869828037/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/536693069827417/?type=3&theater))
   - 2016
     - Global Game Jam Egypt - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.230782967253691/233293070336014/?type=3&theater), [img1](https://www.facebook.com/Egyptian.Gaming.Community/photos/a.831896850265929/831901773598770/?type=3&theater))
@@ -99,7 +100,7 @@ layout: default
     - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
     - 
   - 2020
-    - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [Announ.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
+    - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
     
 ```
 Plus lots more if you have time ;)
