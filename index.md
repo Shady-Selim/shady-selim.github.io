@@ -5,8 +5,8 @@ layout: default
 # Shady Selim's Bio 
 ([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))
 ## Shady Selim is a 
-|:----------|:--------------|:-------------------------|
 | Human     | Think Tank    | Mobile & Web Evangelist  |
+|:----------|:--------------|:-------------------------|
 | Trainer   | UI/UX freak   | Official Google Speaker  |
 | Leader    | GDG Leader    | Kotlin & Flutter Speaker |
 | Mentor    | User Orineted | Guinness Records breaker |
