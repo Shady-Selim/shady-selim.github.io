@@ -16,11 +16,11 @@ Some of his most note-worthy projects include:
 
 ## Shady Selim is a/an 
 
-| Human        | Think Tank     | Mobile & Web Evangelist  |
-|:-------------|:---------------|:-------------------------|
-| Trainer      | UI/UX freak    | Official Google Speaker  |
-| Leader       | GDG Leader     | Kotlin & Flutter Speaker |
-| Mentor       | User Orineted  | Guinness Records breaker |
+| Human         | Think Tank     | Mobile & Web Evangelist  |
+|:--------------|:---------------|:-------------------------|
+| Trainer       | UI/UX freak    | Official Google Speaker  |
+| Leader        | GDG Leader     | Kotlin & Flutter Speaker |
+| Mentor        | User Orineted  | Guinness Records breaker |
 
 # Shady Selim's Published Work
 * [Usability - The key for success or failure of web projects](https://www.grin.com/document/196416)
