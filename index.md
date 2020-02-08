@@ -15,6 +15,7 @@ Some of his most note-worthy projects include:
 *	Proudly serving as first and only Egyptian citizen and Arab to mentor Udacity Android Nanodegree students in physical study room environments.
 
 ## Shady Selim is a/an 
+
 | Human     | Think Tank    | Mobile & Web Evangelist  |
 |:----------|:--------------|:-------------------------|
 | Trainer   | UI/UX freak   | Official Google Speaker  |
