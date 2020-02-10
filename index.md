@@ -88,18 +88,16 @@ Some of his most note-worthy projects include:
 
 # Shady Selim's Talks
 * [GDG Helwan Google I/O 2019 Extended with Shady Kotlin Session](https://youtu.be/aYGcO6qhCCA)
-* [IBM OJT 2017 - Shady Selim](https://youtu.be/flXYs8OnotM)
+
 * [Devfest Egypt 2018 - Kotlin 101 - part 2 - Shady Selim](https://youtu.be/JUJd_vFjpE8)
 * [Devfest Egypt 2018 - Kotlin 101 - part 1 - Shady Selim](https://youtu.be/CFYtaM88F5Q)
 * [Devfest Egypt 2018 - What is new in Android for Developers Session - Shady Selim](https://youtu.be/AL9X-sNFXbk)
 * [Firebase كلمة مؤتمر مطوري جوجل جدة في أحتفالية المبرمجين 2018](https://youtu.be/SSBKUN6wDsQ)
 * [Shady Selim Kotlin Session in GDG 6 October Google I/O 2018 Extended event](https://youtu.be/xTad2slKd30)
 * [GDG Helwan Google I/O 2018 Extended by Shady Selim](https://youtu.be/uIGPbp8GQVo)
-* [GDG Helwan DevFest17 event in the Modern Academy](https://youtu.be/3Zsu8CuOHMU)
-* [Shady Selim speech teaser from 2016 GDG 6October DevFest](https://youtu.be/kUEhnZdm2D8)
-* [Shady Selim Speech in Fekra 2017 event](https://youtu.be/7boRJ3tlMNQ)
-* [Shady Selim Speech in Fekra 2017 event advert](https://youtu.be/6-8DcZHFRuc)
-* [Shady Selim full speech from 2016 GDG 6October DevFest](https://youtu.be/XdcGt-hf4bs)
+
+* [GDG Helwan DevFest17 event in the Modern Academy]
+
 - None Paid Volunteering Community Activities
   - 2015
     - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [ann.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
@@ -109,12 +107,22 @@ Some of his most note-worthy projects include:
     - Global Game Jam Egypt - Joining the judging panel on behalf of GDG MENA
     - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [ann.2](https://www.facebook.com/photo.php?fbid=992760844142525&set=pb.100002258551140.-2207520000..&type=3&theater), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
     - Google MAL - Delivered a session on Google Firebase App Indexing
-    - 
+    - GDG 6th October DevFest - Grow you business with Player Analytics Session ([Announcement](https://www.facebook.com/events/1788941701374492/permalink/1794623064139689/), [vid1](https://youtu.be/XdcGt-hf4bs), [vid2](https://youtu.be/kUEhnZdm2D8), [img1](https://www.facebook.com/GDGOctober/photos/pcb.1800430536892275/1222254197820379/?type=3&theater))
+    - GDG 6th October DevFest - Firebase Android Chat app workshop ([Announcement](https://www.facebook.com/events/1788941701374492/permalink/1802626096672719/?ref=1&action_history=null))
     - Google MAL - Revised students' Android Mobile projects and presentations
-    - 
+    - I/O Extended 2016 GDG Cairo - Android sessions
   - 2017
+    - TensorFlow Dev Summit 2017 Extended - Organizer ([Announcement](https://www.facebook.com/events/697466320413076/), [ann.2](https://www.facebook.com/events/697466320413076/permalink/703453319814376/))
+    - Female Pionners in IT from Egypt - Organizer ([Announcement](https://www.facebook.com/events/481395498915241/))
+    - Google Cloud Next Extended - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/254905691648398/), [ann.2](https://www.facebook.com/events/254905691648398/permalink/254942128311421/), [vid1](https://www.facebook.com/events/247594252382740/permalink/249318278877004/), [img1](https://www.facebook.com/OnlineFCIH/photos/pcb.249342692207896/1896724030542054/?type=3&theater))
+    - Feكra - Design for Web and Mobile session ([vid1](https://youtu.be/7boRJ3tlMNQ), [vid2](https://youtu.be/6-8DcZHFRuc), [img1](https://www.facebook.com/Fekra12/photos/a.1420176034667932/1420177344667801/?type=3&theater))
+    - 1st Kotlin Nights event in MENA - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/440247016356950/), [ann.2](https://www.facebook.com/events/140096789900665/permalink/140634203180257/), [img1](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929413977273059/?type=3&theater), [img2](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409980606792/?type=3&theater), [img3](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409383940185/?type=3&theater))
+    - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU))
+    - Kreate, Kompile, Kotlin - Kotlin Session ([Announcement](https://www.facebook.com/events/105537826780426/permalink/107192466614962/), [img1](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175833725856437/?type=3&theater), [img2](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175822539190889/?type=3&theater), [img3](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175938085846001/?type=3&theater))
   - 2018
+    - 
   - 2019
+    - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Sessoin) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
     
