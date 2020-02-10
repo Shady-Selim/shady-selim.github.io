@@ -117,10 +117,18 @@ Some of his most note-worthy projects include:
     - Google Cloud Next Extended - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/254905691648398/), [ann.2](https://www.facebook.com/events/254905691648398/permalink/254942128311421/), [vid1](https://www.facebook.com/events/247594252382740/permalink/249318278877004/), [img1](https://www.facebook.com/OnlineFCIH/photos/pcb.249342692207896/1896724030542054/?type=3&theater))
     - Feكra - Design for Web and Mobile session ([vid1](https://youtu.be/7boRJ3tlMNQ), [vid2](https://youtu.be/6-8DcZHFRuc), [img1](https://www.facebook.com/Fekra12/photos/a.1420176034667932/1420177344667801/?type=3&theater))
     - 1st Kotlin Nights event in MENA - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/440247016356950/), [ann.2](https://www.facebook.com/events/140096789900665/permalink/140634203180257/), [img1](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929413977273059/?type=3&theater), [img2](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409980606792/?type=3&theater), [img3](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409383940185/?type=3&theater))
-    - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU))
     - Kreate, Kompile, Kotlin - Kotlin Session ([Announcement](https://www.facebook.com/events/105537826780426/permalink/107192466614962/), [img1](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175833725856437/?type=3&theater), [img2](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175822539190889/?type=3&theater), [img3](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175938085846001/?type=3&theater))
+    - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU))
   - 2018
-    - 
+    - Kotlin for Android Hackathon - Organizer/Speaker
+    - Google Cloud Study Jam - Organizer/Speaker
+    - Google Cloud Study Jams WTM - Organizer/Speaker
+    - Build Actions for Your Community → Cairo - Organizer/Speaker
+    - Develop and publish your first Google Assistant App today! - Organizer/Speaker
+    - Google I/O Extended 2018 GDG Helwan - Organizer/Speaker
+    - Flutter Study Jam - Organizer/Speaker
+    - Flutter Study Jam - Organizer/Speaker
+    - GDG DevFest Egypt 2018 - Organizer/Speaker
   - 2019
     - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Sessoin) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
   - 2020
