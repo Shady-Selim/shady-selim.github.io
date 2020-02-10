@@ -107,9 +107,14 @@ Some of his most note-worthy projects include:
   - 2016
     - Global Game Jam Egypt - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.230782967253691/233293070336014/?type=3&theater), [img1](https://www.facebook.com/Egyptian.Gaming.Community/photos/a.831896850265929/831901773598770/?type=3&theater))
     - Global Game Jam Egypt - Joining the judging panel on behalf of GDG MENA
-    - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
+    - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [ann.2](https://www.facebook.com/photo.php?fbid=992760844142525&set=pb.100002258551140.-2207520000..&type=3&theater), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
     - Google MAL - Delivered a session on Google Firebase App Indexing
+    - 
     - Google MAL - Revised students' Android Mobile projects and presentations
+    - 
+  - 2017
+  - 2018
+  - 2019
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
     
