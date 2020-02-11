@@ -101,10 +101,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [Devfest Egypt 2018 - Kotlin 101 - part 1 - Shady Selim](https://youtu.be/CFYtaM88F5Q)
 * [Devfest Egypt 2018 - What is new in Android for Developers Session - Shady Selim](https://youtu.be/AL9X-sNFXbk)
 * [Firebase كلمة مؤتمر مطوري جوجل جدة في أحتفالية المبرمجين 2018](https://youtu.be/SSBKUN6wDsQ)
-* [Shady Selim Kotlin Session in GDG 6 October Google I/O 2018 Extended event](https://youtu.be/xTad2slKd30)
-* [GDG Helwan Google I/O 2018 Extended by Shady Selim](https://youtu.be/uIGPbp8GQVo)
-
-* [GDG Helwan DevFest17 event in the Modern Academy]
+* [Shady Selim Kotlin Session in GDG 6 October Google I/O 2018 Extended event]
+* [GDG Helwan Google I/O 2018 Extended by Shady Selim]
 
 - None Paid Volunteering Community Activities
   - 2015
@@ -126,17 +124,18 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Feكra - Design for Web and Mobile session ([vid1](https://youtu.be/7boRJ3tlMNQ), [vid2](https://youtu.be/6-8DcZHFRuc), [img1](https://www.facebook.com/Fekra12/photos/a.1420176034667932/1420177344667801/?type=3&theater))
     - 1st Kotlin Nights event in MENA - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/440247016356950/), [ann.2](https://www.facebook.com/events/140096789900665/permalink/140634203180257/), [img1](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929413977273059/?type=3&theater), [img2](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409980606792/?type=3&theater), [img3](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409383940185/?type=3&theater))
     - Kreate, Kompile, Kotlin - Kotlin Session ([Announcement](https://www.facebook.com/events/105537826780426/permalink/107192466614962/), [img1](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175833725856437/?type=3&theater), [img2](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175822539190889/?type=3&theater), [img3](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175938085846001/?type=3&theater))
-    - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU))
+    - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU), [img1](https://www.facebook.com/dr.shady.selim/posts/1523564607728810), [img2](https://www.facebook.com/photo.php?fbid=921010654724633&set=a.381157872043250&type=3&theater))
   - 2018
-    - Kotlin for Android Hackathon - Organizer/Speaker
-    - Google Cloud Study Jam - Organizer/Speaker
-    - Google Cloud Study Jams WTM - Organizer/Speaker
-    - Build Actions for Your Community → Cairo - Organizer/Speaker
-    - Develop and publish your first Google Assistant App today! - Organizer/Speaker
-    - Google I/O Extended 2018 GDG Helwan - Organizer/Speaker
-    - Flutter Study Jam - Organizer/Speaker
-    - Flutter Study Jam - Organizer/Speaker
-    - GDG DevFest Egypt 2018 - Organizer/Speaker
+    - Kotlin for Android Hackathon - Organizer ([Announcement](https://www.facebook.com/events/1971773173143270/), [img1](https://www.facebook.com/Helwan.GDG/photos/pcb.2075260026041428/2075259372708160/?type=3&theater), [vid1](https://www.facebook.com/events/1971773173143270/permalink/1996099967377257/))
+    - Google Cloud Study Jam - Organizer ([Announcement](https://www.facebook.com/events/153872495327140/), [img1](https://www.facebook.com/Helwan.GDG/photos/pcb.155048288542894/2086505294916901/?type=3&theater))
+    - Build Actions for Your Community → Cairo - Organizer ([Announcement](https://www.facebook.com/events/438176663279414/), [img1](https://www.facebook.com/GCDCEgypt/photos/a.277117309496966/277119019496795/?type=3&theater), [img2](https://www.facebook.com/GCDCEgypt/photos/a.277117309496966/277117989496898/?type=3&theater))
+    - Google I/O Extended 2018 Alexandria - Kotlin + IO Announcements Sessions ([Announcement](https://www.facebook.com/GDG.Alexandria/photos/a.217585008303814/1940073769388254/?type=3&theater), [img1](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965814253480872/?type=3&theater), [img2](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965857330143231/?type=3&theater), [img3](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965946036801027/?type=3&theater))
+    - Develop and publish your first Google Assistant App today! - Organizer ([Announcement](https://www.facebook.com/events/2065410863778838/), [img1](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303416466867050/?type=3&theater), [img2](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303416320200398/?type=3&theater), [img3](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303417110200319/?type=3&theater))
+    - Google I/O Extended 2018 GDG Helwan - Organizer/Speaker for IO Announcements + Kotlin Sessions ([Announcement](https://www.facebook.com/events/477936715994288/), [ann.2](https://www.facebook.com/events/477936715994288/permalink/484160635371896/) [vid1](https://youtu.be/uIGPbp8GQVo), [vid2](https://youtu.be/OpVLs5Svfcs), [vid3](https://youtu.be/xTad2slKd30), [img1](https://secure.meetupstatic.com/photos/event/d/d/c/c/highres_472916780.jpeg), [img2](https://secure.meetupstatic.com/photos/event/a/6/6/f/highres_472962607.jpeg))
+    - Google I/O Extended 6th October - Android with Kotlin Session ([Announcement](https://www.facebook.com/GDGOctober/photos/pcb.2130774453878501/1872747519437707/?type=3&theater), [vid1](https://youtu.be/xTad2slKd30), [img1](https://www.facebook.com/events/2127630030859610/permalink/2133723076916972/), [img2](https://www.facebook.com/photo.php?fbid=1847771311984294&set=a.287808937980547&type=3&theater), [img3](https://www.facebook.com/ultras.fci/photos/gm.1789333204448032/1376286329170077/?type=3&theater), [img4](https://www.facebook.com/GDGOctober/photos/gm.2133723076916972/1877018642343928/?type=3&theater))
+    - Flutter Study Jam - Organizer/Speaker ([Announcement](https://www.facebook.com/events/1971773173143270/), [vid1](https://www.facebook.com/events/1971773173143270/permalink/1996099967377257/))
+    - Flutter Study Jam - Organizer/Speaker ([Announcement](https://www.facebook.com/events/1971773173143270/), [vid1](https://www.facebook.com/events/1971773173143270/permalink/1996099967377257/))
+    - GDG DevFest Egypt 2018 - Organizer/Speaker ([Announcement](https://www.facebook.com/events/1971773173143270/), [vid1](https://www.facebook.com/events/1971773173143270/permalink/1996099967377257/))
   - 2019
     - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Sessoin) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
   - 2020
