@@ -22,6 +22,14 @@ Some of his most note-worthy projects include:
 | Leader        | GDG Leader     | Kotlin & Flutter Speaker |
 | Mentor        | User Orineted  | Guinness Records breaker |
 
+# Shady Selim's Work History & Experience
+Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadyselim)
+
+# Shady Selim's Post Education
+* Diploma in Web Developement (**MCIT-IBM**) _2002_
+* M.Sc. in CS - Business Information Technology (**Middlesex University**) _2008-2011_
+* MBA - Busienss Administration (**Cairo University**) _2014-2017_
+
 # Shady Selim's Published Work
 * [Usability - The key for success or failure of web projects](https://www.grin.com/document/196416)
 * [Usability - The key for success or failure of web projects -DE](https://www.hausarbeiten.de/document/196416)
