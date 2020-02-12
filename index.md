@@ -48,11 +48,13 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 # Shady Selim's Honors & Awards
 <dl>
   <dt>Flutter Build - 2020</dt>
-    <dd>Completing the Challenge</dd>
-  <dt>Flutter Build - 2020</dt>
     <dd>Successfully completing Flutter Clock Challenge</dd>
+  <dt>Google Africa Developer Scholarship Program - 2019</dt>
+    <dd>Successfully Finishing the Android Experts Program last Phase</dd>
   <dt>Guinness World Records breaker - 2018</dt>
     <dd>Participated in the Worlds' largest code Hackathon in Hajj Hackathon 2018, and that event was monitored by Guinness World Records and they awarded me this certificate of attendance and overnight coding</dd>
+  <dt>Google Developer Challenge Scholarship - 2017</dt>
+    <dd>Graduate from the Mobile Web Specialist track</dd>
   <dt>Inar Hackathon - 2014</dt>
     <dd>Honor for Participation</dd>
   <dt>Intel Ideation Workshop - 2014</dt>
