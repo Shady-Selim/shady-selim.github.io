@@ -5,7 +5,7 @@ layout: default
 # Shady Selim's Bio 
 ([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))
 
-Shady Selim's career background includes mobile development, project management, and development advocate experience, with a history of successfully leading global teams on high-profile projects for industry giants such as IBM and Facebook. He's a highly skilled as a team lead, development manager, and CTO, and hold a M.Sc. in Business Information Technology from Middlesex University and a MBA from Cairo University. He's knowledgeable in many industry technologies including Android, Windows Phone 8x, iOS, Java, Kotlin, ASP .NET, Swift, jQuery, Angular JS, and JavaScript to develop application and design concepts. 
+Shady Selim's career background includes mobile development, project management, and development advocate experience, with a history of successfully leading global teams on high-profile projects for industry giants such as IBM. He's a highly skilled as a team lead, development manager, and CTO, and hold a M.Sc. in Business Information Technology from Middlesex University and a MBA from Cairo University. He's knowledgeable in many industry technologies including Android, Windows Phone 8x, iOS, Java, Kotlin, Flutter, ASP.NET, C#, VB.Net, VB Classic, PHP, Swift, jQuery, AngularJs, Action Script, and JavaScript to develop application and design concepts. 
 
 Dedicated to elevating team performance through best-practice project management methods, his key focus is to exceed client and employer expectations on every project. He enjoys collaborating with clients, creative teams and production professionals to deliver design solutions for mobile development initiatives as well as website development that drives traffic, social media engagement, high response rates and customer-acquisition results.
 
@@ -117,11 +117,6 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 # Shady Selim's Talks
 * [GDG Helwan Google I/O 2019 Extended with Shady Kotlin Session](https://youtu.be/aYGcO6qhCCA)
 
-* [Devfest Egypt 2018 - Kotlin 101 - part 2 - Shady Selim](https://youtu.be/JUJd_vFjpE8)
-* [Devfest Egypt 2018 - Kotlin 101 - part 1 - Shady Selim](https://youtu.be/CFYtaM88F5Q)
-* [Devfest Egypt 2018 - What is new in Android for Developers Session - Shady Selim](https://youtu.be/AL9X-sNFXbk)
-* [Firebase كلمة مؤتمر مطوري جوجل جدة في أحتفالية المبرمجين 2018](https://youtu.be/SSBKUN6wDsQ)
-
 - None Paid Volunteering Community Activities
   - 2015
     - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [ann.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
@@ -152,15 +147,28 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Build Actions for Your Community → Cairo - Organizer ([Announcement](https://www.facebook.com/events/438176663279414/), [img1](https://www.facebook.com/GCDCEgypt/photos/a.277117309496966/277119019496795/?type=3&theater), [img2](https://www.facebook.com/GCDCEgypt/photos/a.277117309496966/277117989496898/?type=3&theater))
     - Google I/O Extended 2018 Alexandria - Kotlin + IO Announcements Sessions ([Announcement](https://www.facebook.com/GDG.Alexandria/photos/a.217585008303814/1940073769388254/?type=3&theater), [img1](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965814253480872/?type=3&theater), [img2](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965857330143231/?type=3&theater), [img3](https://www.facebook.com/GDG.Alexandria/photos/a.1965797906815840/1965946036801027/?type=3&theater))
     - Develop and publish your first Google Assistant App today! - Organizer ([Announcement](https://www.facebook.com/events/2065410863778838/), [img1](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303416466867050/?type=3&theater), [img2](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303416320200398/?type=3&theater), [img3](https://www.facebook.com/GCDCEgypt/photos/a.303415920200438/303417110200319/?type=3&theater))
+    - Hajj Hackathon - Kotlin & Android Mentor ([Announcement](https://hajjhackathon.devpost.com/))
     - Google I/O Extended 2018 GDG Helwan - Organizer/Speaker for IO Announcements + Kotlin Sessions ([Announcement](https://www.facebook.com/events/477936715994288/), [ann.2](https://www.facebook.com/events/477936715994288/permalink/484160635371896/) [vid1](https://youtu.be/uIGPbp8GQVo), [vid2](https://youtu.be/OpVLs5Svfcs), [vid3](https://youtu.be/xTad2slKd30), [img1](https://secure.meetupstatic.com/photos/event/d/d/c/c/highres_472916780.jpeg), [img2](https://secure.meetupstatic.com/photos/event/a/6/6/f/highres_472962607.jpeg))
     - Google I/O Extended 6th October - Android with Kotlin Session ([Announcement](https://www.facebook.com/GDGOctober/photos/pcb.2130774453878501/1872747519437707/?type=3&theater), [vid1](https://youtu.be/xTad2slKd30), [img1](https://www.facebook.com/events/2127630030859610/permalink/2133723076916972/), [img2](https://www.facebook.com/photo.php?fbid=1847771311984294&set=a.287808937980547&type=3&theater), [img3](https://www.facebook.com/ultras.fci/photos/gm.1789333204448032/1376286329170077/?type=3&theater), [img4](https://www.facebook.com/GDGOctober/photos/gm.2133723076916972/1877018642343928/?type=3&theater))
-    - Flutter Study Jam - Organizer/Speaker ([Announcement](https://www.facebook.com/events/554186508366614/), [vid1](https://www.facebook.com/Helwan.GDG/posts/2227384107495685))
-    - GDG DevFest Egypt 2018 - Organizer/Speaker ([Announcement](https://www.facebook.com/events/1971773173143270/), [vid1](https://www.facebook.com/events/1971773173143270/permalink/1996099967377257/))
+    - Flutter Study Jam - Organizer/Speaker ([Announcement](https://www.facebook.com/events/554186508366614/), [img1](https://www.facebook.com/Helwan.GDG/posts/2227384107495685))
+    - GDG Jeddah Developers Day - Firebase Intro Session ([vid1](https://youtu.be/SSBKUN6wDsQ))
+    - GDG DevFest Egypt - Organizer/Hackathon Judge ([Announcement](https://www.facebook.com/events/1555468525300697/))
+    - GDG DevFest Egypt - What is New in Android + Kotlin Sessions ([Announcement](https://www.facebook.com/events/1555468525300697/), [vid1](https://youtu.be/AL9X-sNFXbk), [img1](https://www.facebook.com/events/1555468525300697/permalink/1572908460223370/), [vid2](https://youtu.be/CFYtaM88F5Q), [vid3](https://youtu.be/JUJd_vFjpE8))
   - 2019
+    - React, PWA and Assistant Codelab
+    - K-Vector GDG Helwan (Flutter - Android - Kotlin) sessions
+    - IEEE Kickstart in CIC Zayed
+    - GDG Helwan Flutter Study Jam
+    - I/O '19 Extended
+    - Google I/O Extended 2019 Ismailia
+    - Google I/O Extended 2019 Delta
+    - Kotlin/Everywhere 
+    - GDG Helwan DevFest 2019
+    - GDG DevFest Egypt - Organizer ([Announcement](https://www.facebook.com/events/838848889922017/))
     - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Sessoin) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
-    
+    - KotlinConf 2019 Global - Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/266433824/))
 ```
 Plus lots more if you have time ;)
 ```
