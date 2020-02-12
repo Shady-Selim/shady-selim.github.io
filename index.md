@@ -45,6 +45,24 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * Macromedia Certified Professional - Flash MX Designer (2004)
 * Master CIW Designer (2003)
 
+# Shady Selim's Honors & Awards
+<dl>
+  <dt>Flutter Build - 2020</dt>
+    <dd>Completing the Challenge</dd>
+  <dt>Flutter Build - 2020</dt>
+    <dd>Successfully completing Flutter Clock Challenge</dd>
+  <dt>Guinness World Records breaker - 2018</dt>
+    <dd>Participated in the Worlds' largest code Hackathon in Hajj Hackathon 2018, and that event was monitored by Guinness World Records and they awarded me this certificate of attendance and overnight coding</dd>
+  <dt>Inar Hackathon - 2014</dt>
+    <dd>Honor for Participation</dd>
+  <dt>Intel Ideation Workshop - 2014</dt>
+    <dd>4th Place</dd>
+  <dt>Samsung Entaliq - 2014</dt>
+    <dd>Honor for Participation</dd>
+  <dt>Nokia Create Bootcamp - 2013</dt>
+    <dd>2nd place (Won a Lumia 625)</dd>
+</dl>
+
 # Shady Selim's Apps
 - Windows Mobile Apps (what remains from 42 published app):
   - [Microsoft Store Page](https://www.microsoft.com/en-us/store/search/apps?q=shady%20selim)
@@ -123,7 +141,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - 1st Kotlin Nights event in MENA - Organizer/Speaker for Firebase Cloud Functions session ([Announcement](https://www.facebook.com/events/440247016356950/), [ann.2](https://www.facebook.com/events/140096789900665/permalink/140634203180257/), [img1](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929413977273059/?type=3&theater), [img2](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409980606792/?type=3&theater), [img3](https://www.facebook.com/OnlineFCIH/photos/a.1929401997274257/1929409383940185/?type=3&theater))
     - Kreate, Kompile, Kotlin - Kotlin Session ([Announcement](https://www.facebook.com/events/105537826780426/permalink/107192466614962/), [img1](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175833725856437/?type=3&theater), [img2](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175822539190889/?type=3&theater), [img3](https://www.facebook.com/GDG.NewCairo/photos/a.1175786619194481/1175938085846001/?type=3&theater))
     - Devfest17 - Organizer/Speaker for Koltin for Android ([Announcement](https://www.facebook.com/events/1875423396121326/), [ann.2](https://www.facebook.com/events/1875423396121326/permalink/1875439939453005/), [vid1](https://youtu.be/3Zsu8CuOHMU), [img1](https://www.facebook.com/dr.shady.selim/posts/1523564607728810), [img2](https://www.facebook.com/photo.php?fbid=921010654724633&set=a.381157872043250&type=3&theater))
-    - AngelHack Cairo 2017 - Organizer/Leader ([Announcement](https://www.facebook.com/events/318545328615459/), [img1](https://www.facebook.com/AngelHackHQ/photos/a.1665651500146473/1665651916813098/?type=3&theater), [img2](https://www.facebook.com/aucventurelab/photos/a.654376341293122/1558268204237260/?type=3&theater))
+    - AngelHack Cairo 2017 - Organizer/Ambassador ([Announcement](https://www.facebook.com/events/318545328615459/), [img1](https://www.facebook.com/AngelHackHQ/photos/a.1665651500146473/1665651916813098/?type=3&theater), [img2](https://www.facebook.com/aucventurelab/photos/a.654376341293122/1558268204237260/?type=3&theater))
     - GDG Minia DevFest - Intro to Kotlin Session ([Announcement](https://www.facebook.com/dr.shady.selim/posts/1488215277930410), [vid1](https://www.facebook.com/events/1872482189682496/permalink/1881367968793918/), [img1](https://www.facebook.com/InsiderMinia/photos/pcb.1325802787531332/1325802474198030/?type=3&theater), [img2](https://www.facebook.com/InsiderMinia/photos/pcb.1325802787531332/1325802740864670/?type=3&theater), [img3](https://www.facebook.com/InsiderMinia/photos/pcb.1325802787531332/1325802134198064/?type=3&theater))
     - GDG Alexandria DevFest - Intro to Kotlin Session ([Announcement](https://www.facebook.com/events/712265892303665/permalink/719082848288636/), [img1](https://www.facebook.com/GDG.Alexandria/photos/a.1666462433416057/1666493986746235/?type=3&theater), [img2](https://www.facebook.com/GDG.Alexandria/photos/a.1666462433416057/1666494906746143/?type=3&theater), [img3](https://www.facebook.com/GDG.Alexandria/photos/a.1666462433416057/1666493706746263/?type=3&theater))
   - 2018
