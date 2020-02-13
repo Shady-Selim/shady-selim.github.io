@@ -115,8 +115,6 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [Google Home (or) Google Spy](https://www.linkedin.com/pulse/google-home-spy-shady-selim/)
 
 # Shady Selim's Talks
-* [GDG Helwan Google I/O 2019 Extended with Shady Kotlin Session](https://youtu.be/aYGcO6qhCCA)
-
 - None Paid Volunteering Community Activities
   - 2015
     - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [ann.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
@@ -156,18 +154,19 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - GDG DevFest Egypt - Organizer/Hackathon Judge ([Announcement](https://www.facebook.com/events/1555468525300697/))
     - GDG DevFest Egypt - What is New in Android + Kotlin Sessions ([Announcement](https://www.facebook.com/events/1555468525300697/), [vid1](https://youtu.be/AL9X-sNFXbk), [img1](https://www.facebook.com/events/1555468525300697/permalink/1572908460223370/), [vid2](https://youtu.be/CFYtaM88F5Q), [vid3](https://youtu.be/JUJd_vFjpE8))
   - 2019
-    - React, PWA and Assistant Codelab
-    - K-Vector GDG Helwan (Flutter - Android - Kotlin) sessions
-    - IEEE Kickstart in CIC Zayed
-    - GDG Helwan Flutter Study Jam
-    - I/O '19 Extended
-    - Google I/O Extended 2019 Ismailia
-    - Google I/O Extended 2019 Delta
-    - Google I/O Extended '19 Shrouq
-    - Kotlin/Everywhere 
-    - Devfest Cairo '19
-    - GDG Helwan DevFest 2019
-    - GDG DevFest Egypt - Organizer ([Announcement](https://www.facebook.com/events/838848889922017/))
+    - Career Launcher 6.0 - Flutter + Android + Kotlin + Sessions ([Announcement](https://www.facebook.com/kvectorfoundation/photos/gm.1246705902121259/1949158128546899/?type=3&theater), [ann.2](https://www.facebook.com/kvectorfoundation/photos/gm.1251420934983089/1954798571316188/?type=3&theater), [img1](https://www.facebook.com/kvectorfoundation/photos/pcb.1255757981216051/1959885817474130/?type=3&theater), [img2](https://www.facebook.com/kvectorfoundation/photos/pcb.1256386007819915/1960605204068858/?type=3&theater))
+    - React, PWA and Assistant Codelab - Organizer ([Announcement](https://www.facebook.com/events/2083690501712330/))
+    - IEEE Kickstart in CIC Zayed - Organizer ([Announcement](https://www.facebook.com/events/381702232381508/), [ann.2](https://www.facebook.com/CanadianIEEE/photos/pcb.553926785115361/838101696538404/?type=3&theater))
+    - GDG Helwan Flutter Study Jam - Organzier/Speaker for Flutter ([Announcement](https://www.facebook.com/events/286812132218314/), [img1](https://www.facebook.com/photo.php?fbid=1359712544196595&set=a.194150084086186&type=3&theater))
+    - I/O '19 Extended - Organzier/Speaker for Kotlin ([Announcement](https://www.facebook.com/events/365484854107835/), [ann.2](https://www.facebook.com/Helwan.GDG/photos/gm.368706943785626/2405930446307716/?type=3&theater), [vid1](https://youtu.be/aYGcO6qhCCA))
+    - Google I/O Extended 2019 Ismailia - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/gdgismailia1/photos/gm.712559082531838/651691952008437/?type=3&theater), [img1](https://www.facebook.com/gdgismailia1/photos/gm.717434652044281/656858548158444/?type=3&theater))
+    - Google I/O Extended 2019 Mansoura - What's New in Android Session ([Announcement](https://www.facebook.com/GDG.DeltaUniv/photos/gm.485469625558278/2457469287607564/?type=3&theater), [vid1](https://www.facebook.com/GDG.DeltaUniv/videos/vb.501607726527073/2269001999849977/?type=2&theater), [img1](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460449803976179/?type=3&theater), [img2](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460450173976142/?type=3&theater), [img3](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460449907309502/?type=3&theater), [img4](https://www.facebook.com/photo.php?fbid=2334015253379615&set=a.618530434928114&type=3&theater))
+    - Google I/O '19 Extended GDG Shorouk + GDG Cairo - Kotlin Everywhere Session ([Announcement](https://www.meetup.com/GDGShorouk/photos/30188761/483323147/), [img1](https://www.facebook.com/GDGCairo/photos/pcb.399633107325160/2377800782289720/?type=3&theater), [img2](https://www.facebook.com/GDGCairo/photos/pcb.399633107325160/2377800855623046/?type=3&theater), [img3](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417835111619620/?type=3&theater), [img4](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417836561619475/?type=3&theater), [img5](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417836631619468/?type=3&theater))
+    - Kotlin/Everywhere - Organzier ([Announcement](https://www.facebook.com/events/365484854107835/), [img1](https://drive.google.com/file/d/1C1VVCQQk1HyFfEPKs4wdcxz5uPUfalds/view?usp=sharing), [img2](https://drive.google.com/drive/folders/1cGdHpaQsqDwkHbbqZ3KcKnRBWuj1Bhsv?fbclid=IwAR1eyF9X_q_DlxQdO99Xsa4UOugRBPBngyUiLbEUHSndusJKq3JPG4FnseE))
+    - Devfest Cairo '19 - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/GDGCairo/photos/gm.580885019320976/2516214095115054/?type=3&theater), [img1](https://www.facebook.com/GDGCairo/photos/gm.583734272369384/2523289397740857/?type=3&theater), [img2](https://www.facebook.com/GDGCairo/photos/pcb.585172138892264/2527520700651060/?type=3&theater))
+    - DevFest Shorouk 2019 - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/GDGShorouk/photos/gm.2730556343670098/1906497332787017/?type=3&theater))
+    - GDG Helwan DevFest 2019- Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/264027079/))
+    - GDG DevFest Egypt - Organizer ([Announcement](https://www.facebook.com/events/2118022194970365/))
     - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Sessoin) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
