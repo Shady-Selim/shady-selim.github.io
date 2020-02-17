@@ -75,6 +75,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 - Android mobile apps in different app stores:
   - [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
   - [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
+  - [Trabiza](https://play.google.com/store/apps/details?id=com.trabiza.app)
   - [Quran - Egypt Shamarly Haramin print](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran)
   - [Material Quran](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran_Material)
   - [CIC Students](https://play.google.com/store/apps/details?id=com.zcic.cairocic)
