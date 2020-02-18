@@ -47,6 +47,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 # Shady Selim's Honors & Awards
 <dl>
+  <dt>Google Cloud ML Champ - 2020</dt>
+    <dd>Completed the challenge of #MENA30DaysOnML</dd>
   <dt>Flutter Challenge - 2020</dt>
     <dd>Successfully completing Flutter Clock Challenge</dd>
   <dt>Google Africa Developer Scholarship Program - 2019</dt>
@@ -76,6 +78,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
   - [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
   - [Trabiza](https://play.google.com/store/apps/details?id=com.trabiza.app)
+  - SAGIA
+  - Motivay
   - [Quran - Egypt Shamarly Haramin print](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran)
   - [Material Quran](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran_Material)
   - [CIC Students](https://play.google.com/store/apps/details?id=com.zcic.cairocic)
