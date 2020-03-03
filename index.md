@@ -40,6 +40,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [Flutter Certificate](https://www.credential.net/fd6232d8-2438-4490-acd6-7ae63f638f52?key=71420fefe5b73768bb40a73ee9b59198f32435ad4e9f2201d26ac43c76490cab)
 * [Google Cloud Training](https://google.qwiklabs.com/public_profiles/9d92cc88-5c0e-408e-bd03-a3bfad220b69)
 * [All Microsoft Certificates](https://mcp.microsoft.com/Anonymous//Transcript/Validate) *Transcript ID:* 696599 *Access Code:* shadyMCT
+* Google Mobile Sites Certification] - Google (2018)
+* Introduction to Windows 10 Development - Microsoft Virtual Academy (2018)
 * Android Certified Developer/Trainer - OESF (2014)
 * Senior Digital Marketing Consultant - WSI (2012)
 * Macromedia Certified Professional - Flash MX Designer (2004)
