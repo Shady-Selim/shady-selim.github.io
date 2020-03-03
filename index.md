@@ -26,7 +26,7 @@ Some of his most note-worthy projects include:
 Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadyselim)
 
 # Shady Selim's Post Education
-* Diploma in Web Developement (**MCIT-IBM**) _2002_
+* Diploma in Web Development (**MCIT/IBM**) _2002_
 * M.Sc. in CS - Business Information Technology (**Middlesex University**) _2008-2011_
 * MBA - Busienss Administration (**Cairo University**) _2014-2017_
 
@@ -42,6 +42,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [All Microsoft Certificates](https://mcp.microsoft.com/Anonymous//Transcript/Validate) *Transcript ID:* 696599 *Access Code:* shadyMCT
 * Google Mobile Sites Certification] - Google (2018)
 * Introduction to Windows 10 Development - Microsoft Virtual Academy (2018)
+* Certified Mobile Application Developer Worklight V6.0 - IBM (2014)
 * Android Certified Developer/Trainer - OESF (2014)
 * Senior Digital Marketing Consultant - WSI (2012)
 * Macromedia Certified Professional - Flash MX Designer (2004)
