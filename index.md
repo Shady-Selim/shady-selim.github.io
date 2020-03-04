@@ -10,7 +10,7 @@ Shady Selim's career background includes mobile development, project management,
 Dedicated to elevating teams performance through best-practice project management methods, his key focus is to exceed client and employer expectations on every project. He enjoys collaborating with clients, creative teams, and production professionals to deliver design solutions for mobile development initiatives as well as website development that drives traffic, social media engagement, high response rates and customer-acquisition results.
 
 Some of his most note-worthy projects include:
-*	Travelled across the world for IBM, training university students and administrators and other targeted customers delivering five-day programming classes on various IBM products. 
+*	Traveled across the world for IBM, training university students and administrators and other targeted customers delivering five-day programming classes on various IBM products. 
 *	Led 16 developers on rapid deployment of business-critical application for IBM. Completed project within strict one-month deadline. 
 *	Proudly serving as first and only Egyptian citizen and Arab to mentor Udacity Android Nanodegree students in physical study room environments.
 
@@ -28,7 +28,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 # Shady Selim's Post Education
 * Diploma in Web Development (**MCIT/IBM**) _2002_
 * M.Sc. in CS - Business Information Technology (**Middlesex University**) _2008-2011_
-* MBA - Busienss Administration (**Cairo University**) _2014-2017_
+* MBA - Busienss Administration (**Cairo University**) _2015-2017_
 
 # Shady Selim's Published Work
 * [Usability - The key for success or failure of web projects](https://www.grin.com/document/196416)
