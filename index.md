@@ -107,7 +107,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [Ratb.li](https://apps.apple.com/us/app/ratb-li/id1308032045)
   - [MyStore](https://apps.apple.com/us/app/mystore/id1468736442)
 
-> Plus many was on Nokia store and now on Opera store, and many more others that have been removed by owners or store.
+> Plus many was on Nokia store and now on Opera store, and many more others that have been put down by owners or stores.
 
 # Shady Selim's Articles
 * [How to work in Google, Facebook, or Microsoft? -1](https://www.linkedin.com/pulse/how-work-google-facebook-microsoft-1-shady-yehia-selim-msc-mba/)
