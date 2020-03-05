@@ -179,7 +179,10 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - 2020
     - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
     - KotlinConf 2019 Global - Co-Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/266433824/))
- 
+    - International Women's Day 2020 (Arab Open University) - Inroduction on Mobile Developemnt Session ([Announcement](https://www.facebook.com/GDGShorouk/photos/gm.198890121466739/2198679820235432/?type=3&theater))
+    - Swift Cairo - Kotlin/Native for iOS and Android Session
+    - GDG Helwan FireBase for Web Developers - Organizer/Speaker ([Announcement](https://www.meetup.com/GDG-Helwan/events/268577253/))
+
 ```
 Plus lots more if you have time ;)
 ```
