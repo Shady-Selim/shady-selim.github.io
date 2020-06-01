@@ -182,7 +182,10 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - KotlinConf 2019 Global - Co-Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/266433824/))
     - International Women's Day 2020 (Arab Open University) - Introduction on Mobile Development Session ([Announcement](https://www.facebook.com/GDGShorouk/photos/gm.198890121466739/2198679820235432/?type=3&theater))
     - Swift Cairo - Kotlin/Native for iOS and Android Session ([Announcement](https://twitter.com/Andela_Egypt/status/1237021901140131840), [ann.2](https://www.meetup.com/SwiftCairo/events/269330138/), [vid1](https://www.youtube.com/watch?v=FxihiBN1f60))
-    - GDG Helwan FireBase for Web Developers - Organizer/Speaker ([Announcement](https://www.meetup.com/GDG-Helwan/events/268577253/))
+    - GDG Helwan FireBase for Web Developers - Organizer/Speaker ([Announcement](https://www.meetup.com/GDG-Helwan/events/268577253/), [ann.2](https://www.facebook.com/AndelaEgypt/posts/1185455185131880), [vid1](https://youtu.be/IvaOz55ROH0), [vid2](https://youtu.be/Wov3lwe8nYA), [vid3](https://youtu.be/A1BAPKX8lTE), [vid4](https://youtu.be/GRgXR36xaAc))
+    - MENA Digital Days - Week #4 Google Technologies - Game Development Using Flutter Online Session ([Announcement](https://twitter.com/gdgmena/status/1250838867822829568), [ann.2](https://www.meetup.com/GDG-Helwan/events/270047064/), [vid1](https://youtu.be/uCJyt2IpAlM))
+    - Developer Student Club - Cairo University - Mobile App Development Online Session ([Announcement](https://www.facebook.com/DSCCairo/photos/a.106526477584111/146417886928303/?type=3&theater), [vid1](https://youtu.be/y0222d67M0M))
+    - GDG Helwan - Android Unit Testing with Eng. Ahmed Adel - Organizer/Interviewer ([Announcement](https://www.meetup.com/GDG-Helwan/events/270671025/), [vid1](https://youtu.be/AmaHlsd4vUg))
 
 ```
 Plus lots more if you have time ;)
