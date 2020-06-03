@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# Who is Shady Selim
+Father by Love ✔
+UX by Nature ✔
+Leader by Instinct ✔
+Gifted Public Speaker ✔
+Technology Savvy by Hobby ✔
+Mentor by Experience ✔
+Frontier by Choice ✔
+Mobile & Web Evangelist by Passion ✔
+Guinness World Records breaker by Strength ✔
+Mobile Developer by Profession ✔
+
+
 # Shady Selim's Bio 
 ([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))
 
@@ -34,6 +47,11 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [Usability - The key for success or failure of web projects](https://www.grin.com/document/196416)
 * [Usability - The key for success or failure of web projects -DE](https://www.hausarbeiten.de/document/196416)
 
+# Created Training Material for Android
+* [Android Programing Course Material](https://www.slideshare.net/bagaa/android-programing-course-material)
+* [Android Programing Course Material Labs](https://www.slideshare.net/bagaa/android-programing-course-material-labs)
+
+
 # Shady Selim's Certificates
 * [Udacity Mobile Web Specialist Nanaodegree](https://confirm.udacity.com/4GGRWQTP)
 * [Udacity Android Developer Nanaodegree](https://confirm.udacity.com/N3ME9V9R)
@@ -50,6 +68,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 # Shady Selim's Honors & Awards
 <dl>
+  <dt>GDG MENA Certificate of Speaking - 2020</dt>
+    <dd>A thank you certificate for delivering an online session for GDG MENA Digital Days</dd>
   <dt>Google Cloud ML Champ - 2020</dt>
     <dd>Completed the challenge of #MENA30DaysOnML</dd>
   <dt>Flutter Challenge - 2020</dt>
