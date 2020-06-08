@@ -130,6 +130,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 > Plus many was on Nokia store and now on Opera store, and many more others that have been put down by owners or stores.
 
 # Shady Selim's Articles
+* [Dickens and Modern Agile Methodology](https://www.linkedin.com/pulse/dickens-modern-agile-methodology-shady-yehia-selim-msc-mba/)
+* [Remote Working, is Fun!!!?](https://www.linkedin.com/pulse/remote-working-fun-shady-yehia-selim-msc-mba/)
 * [Kotlin/Native for iOS and Android](https://www.linkedin.com/pulse/kotlinnative-ios-android-shady-yehia-selim-msc-mba/)
 * [How to work in Google, Facebook, or Microsoft? -1](https://www.linkedin.com/pulse/how-work-google-facebook-microsoft-1-shady-yehia-selim-msc-mba/)
 * [Flutter Vs Kotlin](https://www.linkedin.com/pulse/flutter-vs-kotlin-shady-yehia-selim-msc-mba/)
