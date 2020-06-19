@@ -211,6 +211,11 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - MENA Digital Days - Week #4 Google Technologies - Game Development Using Flutter Online Session ([Announcement](https://twitter.com/gdgmena/status/1250838867822829568), [ann.2](https://www.meetup.com/GDG-Helwan/events/270047064/), [vid1](https://youtu.be/uCJyt2IpAlM))
     - Developer Student Club - Cairo University - Mobile App Development Online Session ([Announcement](https://www.facebook.com/DSCCairo/photos/a.106526477584111/146417886928303/?type=3&theater), [vid1](https://youtu.be/y0222d67M0M))
     - GDG Helwan - Android Unit Testing with Eng. Ahmed Adel - Organizer/Interviewer ([Announcement](https://www.meetup.com/GDG-Helwan/events/270671025/), [vid1](https://youtu.be/AmaHlsd4vUg))
+    - GDG Helwan - What is Kotlin Multiplaform? Why & How? Live Session ([Announcement](https://www.meetup.com/GDG-Helwan/events/270671025/), [vid1](https://youtu.be/S10PipWUeEw))
+    - GDG Helwan - Hand-on code lab creating Kotlin Multiplaform the easy way ([Announcement](https://www.linkedin.com/pulse/tutorial-your-first-kotlin-multiplatform-ios-android-shady/) [vid1](https://youtu.be/8o3IUWhLG2U))
+    - GDG Helwan - Android 11 Meetup ([Announcement](https://www.meetup.com/GDG-Helwan/events/270725535/) [vid1](https://youtu.be/n2i6j9RZ4ag), [vid2](https://youtu.be/6_1zaOjo8hw), [vid3](https://youtu.be/q4mp6DAvB1k), [vid4](https://youtu.be/cEYt86goq4s))
+    - GDG Helwan - Podcast#1:Fireside chat with Hassan and Moataz about tech development in Germany ([Announcement](https://www.meetup.com/GDG-Helwan/events/271223690/), [vid1](https://youtu.be/YTEUTDmLmcw))
+    - Engineerx - Mobile Developement with Flutter (TBA)
 
 ```
 Plus lots more if you have time ;)
