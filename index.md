@@ -130,6 +130,9 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 > Plus many was on Nokia store and now on Opera store, and many more others that have been put down by owners or stores.
 
 # Shady Selim's Articles
+* [[Tutorial] Your First Kotlin Multiplatform iOS & Android Apps, the Easy Way!](https://www.linkedin.com/pulse/tutorial-your-first-kotlin-multiplatform-ios-android-shady/)
+* [PUBG harmful impact in Decision Making](https://www.linkedin.com/pulse/pubg-harmful-impact-decision-making-shady-yehia-selim-msc-mba/)
+* [Firebase Recorded Sessions](https://www.linkedin.com/pulse/firebase-recorded-sessions-shady-yehia-selim-msc-mba/)
 * [Dickens and Modern Agile Methodology](https://www.linkedin.com/pulse/dickens-modern-agile-methodology-shady-yehia-selim-msc-mba/)
 * [Remote Working, is Fun!!!?](https://www.linkedin.com/pulse/remote-working-fun-shady-yehia-selim-msc-mba/)
 * [Kotlin/Native for iOS and Android](https://www.linkedin.com/pulse/kotlinnative-ios-android-shady-yehia-selim-msc-mba/)
