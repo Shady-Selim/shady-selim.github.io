@@ -53,6 +53,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 
 # Shady Selim's Certificates
+* [Certified Scrum Product Owner® (CSPO®)](http://bcert.me/shadxoddl) *License number:* 1244263
+* [Certified ScrumMaster® (CSM®)](http://bcert.me/svabjsjcm) *License number:* 1239886
 * [Udacity Mobile Web Specialist Nanaodegree](https://confirm.udacity.com/4GGRWQTP)
 * [Udacity Android Developer Nanaodegree](https://confirm.udacity.com/N3ME9V9R)
 * [Flutter Certificate](https://www.credential.net/fd6232d8-2438-4490-acd6-7ae63f638f52?key=71420fefe5b73768bb40a73ee9b59198f32435ad4e9f2201d26ac43c76490cab)
