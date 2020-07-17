@@ -99,6 +99,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [Animals for Kids](https://www.microsoft.com/en-us/p/animals-for-kids/9nblggh0fs91)
   - [Egyptian Scientists](https://www.microsoft.com/en-us/store/p/egyptian-scientists/9nblgggzkw4j)
   - [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
+  - [Hidden Camera for Windows 10 (CNet)](https://download.cnet.com/Hidden-Camera-for-Windows-10/3000-12511_4-77801196.html)
 - Android mobile apps in different app stores:
   - [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
   - [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
@@ -218,7 +219,10 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Hand-on code lab creating Kotlin Multiplaform the easy way ([Announcement](https://www.linkedin.com/pulse/tutorial-your-first-kotlin-multiplatform-ios-android-shady/), [vid1](https://youtu.be/8o3IUWhLG2U))
     - GDG Helwan Android 11 Meetup ([Announcement](https://www.meetup.com/GDG-Helwan/events/270725535/), [vid1](https://youtu.be/n2i6j9RZ4ag), [vid2](https://youtu.be/6_1zaOjo8hw), [vid3](https://youtu.be/q4mp6DAvB1k), [vid4](https://youtu.be/cEYt86goq4s))
     - GDG Helwan Podcast#1:Fireside chat with Hassan and Moataz about tech development in Germany ([Announcement](https://www.meetup.com/GDG-Helwan/events/271223690/), [vid1](https://youtu.be/YTEUTDmLmcw))
-    - Engineerx - Mobile Developement with Flutter (TBA)
+    - Engineerx - Mobile Developement with Flutter ([Announcement](https://www.facebook.com/EngineerexCairo/photos/a.316757325007422/3812938945389225/?type=3&theater), [vid1](https://www.facebook.com/EngineerexCairo/videos/309586763533809/))
+    - GDG Helwan Podcast#2: How to apply to international companies with Ahmed Elsawy from Andela ([Announcement](https://www.meetup.com/GDG-Helwan/events/271541264/), [vid1](https://youtu.be/YC-XfCbZPqU))
+    - GDG Cairo - Android 11 Meetup ([Announcement](https://www.facebook.com/GDGCairo/photos/gm.2884570654998843/3101827633220361/?type=3&theater), [vid1](https://youtu.be/mfbWc-7S9uA))
+    - GDG Helwan #FlutterDayMeetups Egypt ([Announcement](https://www.meetup.com/GDG-Helwan/events/271621126/), [vid1](https://www.facebook.com/GDGDamanhour/videos/960221841095090))
 
 ```
 Plus lots more if you have time ;)
