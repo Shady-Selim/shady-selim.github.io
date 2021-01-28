@@ -224,10 +224,13 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - GDG Cairo - Android 11 Meetup ([Announcement](https://www.facebook.com/GDGCairo/photos/gm.2884570654998843/3101827633220361/?type=3&theater), [vid1](https://youtu.be/mfbWc-7S9uA))
     - GDG Helwan #FlutterDayMeetups Egypt ([Announcement](https://www.meetup.com/GDG-Helwan/events/271621126/), [vid1](https://www.facebook.com/GDGDamanhour/videos/960221841095090))
     - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Helwan DevFest '2020' ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Intro to GDG HELWAN & Google Assist ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Azhar ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Android Study Jam (Intermediate to Advanced topics) ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Sprints ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+  - 2021
+    - Podcast ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
 ```
 Plus lots more if you have time ;)
 ```
