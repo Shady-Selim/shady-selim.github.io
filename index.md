@@ -233,6 +233,11 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Sprints ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
   - 2021
     - Podcast ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Flutter Live Event ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Android Study Jam (Day1) ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Android Study Jam (Day2) ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Advanced Android Study Jam (Day1) ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
+    - Advanced Android Study Jam (Day2) ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
 ```
 Plus lots more if you have time ;)
 ```
