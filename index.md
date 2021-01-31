@@ -53,6 +53,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 
 # Shady Selim's Certificates
+* [Agile Project Management](https://credentials.edx.org/credentials/b24693a334994963bc91c03142a913f7/)
+* [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/4e282dfb-d7e5-4d12-bb86-cb64f6b78281) 
 * [Certified Scrum Product Owner® (CSPO®)](http://bcert.me/shadxoddl) *License number:* 1244263
 * [Certified ScrumMaster® (CSM®)](http://bcert.me/svabjsjcm) *License number:* 1239886
 * [Udacity Mobile Web Specialist Nanaodegree](https://confirm.udacity.com/4GGRWQTP)
