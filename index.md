@@ -16,7 +16,7 @@ Mobile Developer by Profession ✔
 
 
 # Shady Selim's Bio 
-([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa))/[Videos](https://www.youtube.com/channel/UCxli98N2RGm8mvdFyuoBfZQ))
+([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa)/[Videos](https://www.youtube.com/channel/UCxli98N2RGm8mvdFyuoBfZQ))
 
 Shady Selim's career background includes mobile development, project management, and development advocate experience, with a history of successfully leading global teams on high-profile projects for industry giants such as IBM. He's highly skilled as a team leader, development manager, and CTO, and holds a M.Sc. in Business Information Technology from Middlesex University and an MBA from Cairo University. He's knowledgeable in many industry technologies including Android, Windows Phone 8x, iOS, Java, Kotlin, Flutter, ASP.NET, C#, VB.Net, VB Classic, PHP, Swift, jQuery, AngularJs, Action Script, and JavaScript to develop mobile and web applications and design concepts. 
 
