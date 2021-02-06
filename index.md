@@ -233,8 +233,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Sprints - The Mobile Development Debate ([Announcement](https://www.facebook.com/events/409392583636344/?post_id=410646680177601), [vid1](https://www.facebook.com/watch/live/?v=692799318097966&ref=watch_permalink))
   - 2021
     - Podcast - Mentoring Developers (Ep.83) ([Announcement](http://mentoringdevelopers.com/), [ann.2](https://www.stitcher.com/show/mentoring-developers), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - Flutter Live Event ([Announcement](), [vid1]())
-    - Advanced Android Study Jam (Day1) ([Announcement](), [vid1]())
+    - Flutter Live Event ([Announcement](https://www.facebook.com/DscMaCS/posts/252977626270909), [vid1](https://youtu.be/pIR-WOxkUIY), [vid2](https://www.facebook.com/story.php?story_fbid=2906524376248318&id=1879985968902169))
+    - Advanced Android Study Jam (Day1) ([Announcement](https://www.facebook.com/events/412953339931384?post_id=417040599522658&view=permalink), [vid1]())
     - Advanced Android Study Jam (Day2) ([Announcement](), [vid1]())
 ```
 Plus lots more if you have time ;)
