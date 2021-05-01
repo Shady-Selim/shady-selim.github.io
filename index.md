@@ -103,6 +103,9 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
   - [Hidden Camera for Windows 10 (CNet)](https://download.cnet.com/Hidden-Camera-for-Windows-10/3000-12511_4-77801196.html)
 - Android mobile apps in different app stores:
+  - [elmenus - Discover & Order food](https://play.google.com/store/apps/details?id=com.elmenus.app)
+  - [elmenus Fleet: Delivering Food](https://play.google.com/store/apps/details?id=com.elmenus.driver)
+  - [تطبيق الفهد للقرآن الكريم](https://play.google.com/store/apps/details?id=co.alfahad.quran)
   - [Flask for Axon](https://play.google.com/store/apps/details?id=com.medable.axon.flask)
   - [myStore](https://play.google.com/store/apps/details?id=com.stcc.mystore)
   - [Trabiza](https://play.google.com/store/apps/details?id=com.trabiza.app)
@@ -129,6 +132,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [TechCrunch](http://www.myappwiz.com/home/appdetail?platform=android&appID=com.Shady.techcrunch)
   - [Unity](http://www.appszoom.com/android-app/unity-kxbrj.html)
 - iOS mobile apps:
+  - [تطبيق الفهد للقرآن الكريم](https://apps.apple.com/us/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%81%D9%87%D8%AF-%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id1496504042)
   - [Ratb.li](https://apps.apple.com/us/app/ratb-li/id1308032045)
   - [MyStore](https://apps.apple.com/us/app/mystore/id1468736442)
 
