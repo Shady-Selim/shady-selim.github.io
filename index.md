@@ -72,6 +72,10 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 # Shady Selim's Honors & Awards
 <dl>
+  <dt>Android Dev Challenge: Week 2 - 2021</dt>
+    <dd>Week 2 winner, [Post](https://android-developers.googleblog.com/2021/03/android-dev-challenge-2.html), [Prize image](https://1.bp.blogspot.com/-wdX0HWD4NQ4/YD05oI2XzkI/AAAAAAAAQM0/oiZ-LcNjyhA1pcvEgZxg01cG-3taOnggACLcBGAsYHQ/s0/ADC_Comp_Mockup_1%2B%25281%2529.jpg)</dd>
+  <dt>Andela 2020 Hone Your Craft Award - 2020</dt>
+    <dd>Winner 1st prize in the "Life Long Learner" category</dd>
   <dt>GDG MENA Certificate of Speaking - 2020</dt>
     <dd>A thank you certificate for delivering an online session for GDG MENA Digital Days</dd>
   <dt>Google Cloud ML Champ - 2020</dt>
