@@ -72,8 +72,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 # Shady Selim's Honors & Awards
 <dl>
-  <dt>Android Dev Challenge: Week 2 - 2021</dt>
-    <dd>Week 2 winner, [Post](https://android-developers.googleblog.com/2021/03/android-dev-challenge-2.html), [Prize image](https://1.bp.blogspot.com/-wdX0HWD4NQ4/YD05oI2XzkI/AAAAAAAAQM0/oiZ-LcNjyhA1pcvEgZxg01cG-3taOnggACLcBGAsYHQ/s0/ADC_Comp_Mockup_1%2B%25281%2529.jpg)</dd>
+  <dt>Android Dev Challenge #AndroidDevChallenge: Week 2 - 2021</dt>
+    <dd>Week 2 winner, [Post](https://android-developers.googleblog.com/2021/03/android-dev-challenge-2.html), [My Prize](https://www.linkedin.com/posts/shadyselim_androiddevchallenge-kotlin-jetpackcompose-activity-6792770836467068928-D2X3)</dd>
   <dt>Andela 2020 Hone Your Craft Award - 2020</dt>
     <dd>Winner 1st prize in the "Life Long Learner" category</dd>
   <dt>GDG MENA Certificate of Speaking - 2020</dt>
@@ -242,8 +242,12 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - 2021
     - Podcast - Mentoring Developers (Ep.83) ([Announcement](http://mentoringdevelopers.com/), [ann.2](https://www.stitcher.com/show/mentoring-developers), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
     - Flutter Live Event ([Announcement](https://www.facebook.com/DscMaCS/posts/252977626270909), [vid1](https://youtu.be/pIR-WOxkUIY), [vid2](https://www.facebook.com/story.php?story_fbid=2906524376248318&id=1879985968902169))
-    - Advanced Android Study Jam (Day1) ([Announcement](https://www.facebook.com/events/412953339931384?post_id=417040599522658&view=permalink), [vid1]())
-    - Advanced Android Study Jam (Day2) ([Announcement](), [vid1]())
+    - Android Study Jam (Intermediate to Advanced topics) ([Announcement](https://www.facebook.com/events/412953339931384?post_id=417040599522658&view=permalink), [vid1](https://youtu.be/uCT4YqO7g9g))
+    - Jetpack Compose #AndroidDevChallenge Week 1 ([Announcement](https://gdg.community.dev/e/mwf9rr/), [ann.2](https://www.meetup.com/GDG-Helwan/events/275394055/), [vid1](https://youtu.be/7HpR5A7IJIU))
+    - Jetpack Compose #AndroidDevChallenge Week 2, Let's Code Together ([Announcement](https://gdg.community.dev/e/mvxepc/), [vid1](https://youtu.be/lyhxUA-t1yE))
+    - Jetpack Compose #AndroidDevChallenge Week 3 ([Announcement](https://www.meetup.com/GDG-Helwan/events/276889717/), [vid1](https://youtu.be/D7HICl0PTKo))
+    - Jetpack Compose #AndroidDevChallenge Week 4 ([Announcement](https://www.meetup.com/GDG-Helwan/events/277057361/), [vid1](https://youtu.be/qQnnPXNcQ5w))
+    - Partnering in Android Worldwide, April 2021, 2 days Event ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-worldwide-april-2021/), [Agenda](https://www.airmeet.com/e/3a42a900-9868-11eb-bfbb-3361cd1b2fd8))
 ```
 Plus lots more if you have time ;)
 ```
