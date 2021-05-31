@@ -248,6 +248,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Jetpack Compose #AndroidDevChallenge Week 3 ([Announcement](https://www.meetup.com/GDG-Helwan/events/276889717/), [vid1](https://youtu.be/D7HICl0PTKo))
     - Jetpack Compose #AndroidDevChallenge Week 4 ([Announcement](https://www.meetup.com/GDG-Helwan/events/277057361/), [vid1](https://youtu.be/qQnnPXNcQ5w))
     - Partnering in Android Worldwide, April 2021, 2 days Event ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-worldwide-april-2021/), [Agenda](https://www.airmeet.com/e/3a42a900-9868-11eb-bfbb-3361cd1b2fd8))
+    - Google I/O extended GDG New Cairo - What's new in Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-google-io-extended-new-cairo/), [vid1](https://fb.watch/5Qz9iOwrFs/))
+    - Kotlin Saudi - KMM ([Announcement](https://twitter.com/KotlinSaudi/status/1397197874740482050), [vid1](https://youtu.be/zLJ2xYSFcmE))
 ```
 Plus lots more if you have time ;)
 ```
