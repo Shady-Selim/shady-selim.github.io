@@ -251,6 +251,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Google I/O extended GDG New Cairo - What's new in Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-google-io-extended-new-cairo/), [vid1](https://fb.watch/5Qz9iOwrFs/))
     - Kotlin Saudi - KMM ([Announcement](https://twitter.com/KotlinSaudi/status/1397197874740482050), [vid1](https://youtu.be/zLJ2xYSFcmE))
     - Google I/O Extended Helwan - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-google-io-extended-helwan/), [vid1](https://youtu.be/Wm39ciCf4Gw))
+    - Tech Talks - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-12-updates/), [ann.2](https://www.meetup.com/GDG-Helwan/events/280642882/), [vid1](https://youtu.be/D2B83PZtMc8))
 ```
 Plus lots more if you have time ;)
 ```
