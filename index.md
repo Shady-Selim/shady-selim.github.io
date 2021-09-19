@@ -107,6 +107,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
   - [Hidden Camera for Windows 10 (CNet)](https://download.cnet.com/Hidden-Camera-for-Windows-10/3000-12511_4-77801196.html)
 - Android mobile apps in different app stores:
+  - Paylo
+  - Smart ICU
   - [elmenus - Discover & Order food](https://play.google.com/store/apps/details?id=com.elmenus.app)
   - [elmenus Fleet: Delivering Food](https://play.google.com/store/apps/details?id=com.elmenus.driver)
   - [تطبيق الفهد للقرآن الكريم](https://play.google.com/store/apps/details?id=co.alfahad.quran)
@@ -117,6 +119,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - Motivay
   - [Quran - Egypt Shamarly Haramin print](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran)
   - [Material Quran](https://play.google.com/store/apps/details?id=com.Shady_Selim.Quran_Material)
+  - [Pocket Quran](https://galaxystore.samsung.com/detail/com.ShadySelim.PocketQuran)
   - [CIC Students](https://play.google.com/store/apps/details?id=com.zcic.cairocic)
   - [CIC CMS](https://play.google.com/store/apps/details?id=com.cic.cms)
   - [O2Share](https://play.google.com/store/apps/details?id=com.o2share.app)
@@ -139,6 +142,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [تطبيق الفهد للقرآن الكريم](https://apps.apple.com/us/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%81%D9%87%D8%AF-%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id1496504042)
   - [Ratb.li](https://apps.apple.com/us/app/ratb-li/id1308032045)
   - [MyStore](https://apps.apple.com/us/app/mystore/id1468736442)
+  - [Smart ICU]
 
 > Plus many was on Nokia store and now on Opera store, and many more others that have been put down by owners or stores.
 
