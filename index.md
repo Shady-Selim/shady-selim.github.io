@@ -256,7 +256,12 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Kotlin Saudi - KMM ([Announcement](https://twitter.com/KotlinSaudi/status/1397197874740482050), [vid1](https://youtu.be/zLJ2xYSFcmE))
     - Google I/O Extended Helwan - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-google-io-extended-helwan/), [vid1](https://youtu.be/Wm39ciCf4Gw))
     - Tech Talks - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-12-updates/), [ann.2](https://www.meetup.com/GDG-Helwan/events/280642882/), [vid1](https://youtu.be/D2B83PZtMc8))
+    - MVI Architecture for Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-mvi-architecture-for-android/),  [vid1](https://www.youtube.com/watch?v=T-GYSvbQtSk))
     - DeltaTechnopreneurs - What's new in android 12 for users and developers ([Announcement](https://web.facebook.com/DeltaTechnopreneurs/photos/a.241967595823227/4839005839452690/?type=3&theater), [vid1](https://web.facebook.com/DeltaTechnopreneurs/videos/whats-new-in-android-12-for-users-and-developers/1298544477329552))
+  - 2022
+    - Have fun learning Kotlin series - Kotlin for Backend ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-1/), [vid1](https://www.youtube.com/watch?v=GqqlabM6yB4))
+    - GDSC Future Academy - Android Native (Kotlin) ([Announcement](https://www.linkedin.com/posts/gdsc-future-academy-5a8141205_solution-dsc-code-activity-6898281975870828544-eTmB), [ann.2](https://gdsc.community.dev/events/details/developer-student-clubs-future-academy-presents-android-native-kotlin-solution-challenge/), [ann.3](https://web.facebook.com/GDSCFutureAcademy/posts/pfbid0CQiN6mXZRsd8EMiDN2e9P1ZjX4vVbvuAM3qfzQkABqgC8pNhm6PhWhYxcpdRvxC1l), [vid1](https://web.facebook.com/GDSCFutureAcademy/videos/6994276413977998/))
+    - Have fun learning Kotlin series - Jetpack Compose ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-2/), [vid1](https://www.youtube.com/watch?v=ONwNoTRh_xY))
 ```
 Plus lots more if you have time ;)
 ```
