@@ -53,6 +53,8 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 
 
 # Shady Selim's Certificates
+* [Google Project Management Certificate](https://www.credly.com/badges/475b5b53-7aaf-4c3e-8cb7-f47b86ebd432)
+* [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TA59LU85VHZB)
 * [Agile Project Management](https://credentials.edx.org/credentials/b24693a334994963bc91c03142a913f7/)
 * [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/4e282dfb-d7e5-4d12-bb86-cb64f6b78281) 
 * [Certified Scrum Product Owner® (CSPO®)](http://bcert.me/shadxoddl) *License number:* 1244263
