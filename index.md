@@ -109,6 +109,12 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
   - [عالم-التقنية](https://www.microsoft.com/en-eg/p/عالم-التقنية/9nblggh0975z)
   - [Hidden Camera for Windows 10 (CNet)](https://download.cnet.com/Hidden-Camera-for-Windows-10/3000-12511_4-77801196.html)
 - Android mobile apps in different app stores:
+  - [ZTN](https://play.google.com/store/apps/details?id=com.ztnstudio.notepad)
+  - [CNA](https://play.google.com/store/apps/details?id=callid.name.announcer)
+  - [SMS4.0](https://play.google.com/store/apps/details?id=com.concentriclivers.mms.com.android.mms)
+  - [All Email Access](https://play.google.com/store/apps/details?id=info.myapp.allemailaccess)
+  - [Notes](https://play.google.com/store/apps/details?id=com.caller.notes)
+  - [Flash Alerts](https://play.google.com/store/apps/details?id=flashalerts.flashlight.calls.messages)
   - Paylo
   - Smart ICU
   - [elmenus - Discover & Order food](https://play.google.com/store/apps/details?id=com.elmenus.app)
