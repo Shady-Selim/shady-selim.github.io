@@ -270,6 +270,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Have fun learning Kotlin series - Kotlin for Backend ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-1/), [vid1](https://www.youtube.com/watch?v=GqqlabM6yB4))
     - GDSC Future Academy - Android Native (Kotlin) ([Announcement](https://www.linkedin.com/posts/gdsc-future-academy-5a8141205_solution-dsc-code-activity-6898281975870828544-eTmB), [ann.2](https://gdsc.community.dev/events/details/developer-student-clubs-future-academy-presents-android-native-kotlin-solution-challenge/), [ann.3](https://web.facebook.com/GDSCFutureAcademy/posts/pfbid0CQiN6mXZRsd8EMiDN2e9P1ZjX4vVbvuAM3qfzQkABqgC8pNhm6PhWhYxcpdRvxC1l), [vid1](https://web.facebook.com/GDSCFutureAcademy/videos/6994276413977998/))
     - Have fun learning Kotlin series - Jetpack Compose ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-2/), [vid1](https://www.youtube.com/watch?v=ONwNoTRh_xY), [vid2](https://web.facebook.com/Helwan.GDG/videos/953509382025987/))
+    - Google I/O Extended Helwan - Google I/O Android Updates  ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-io-extended-2022-gdg-helwan/), [vid1](https://youtu.be/BOTPqYjCAic)
 ```
 Plus lots more if you have time ;)
 ```
