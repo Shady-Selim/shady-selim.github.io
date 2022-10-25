@@ -272,7 +272,7 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
     - Have fun learning Kotlin series - Jetpack Compose ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-2/), [vid1](https://www.youtube.com/watch?v=ONwNoTRh_xY), [vid2](https://web.facebook.com/Helwan.GDG/videos/953509382025987/))
     - Google I/O Extended Helwan - Google I/O Android Updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-io-extended-2022-gdg-helwan/), [vid1](https://youtu.be/BOTPqYjCAic))
     - GDSC Future Academy - Kotlin & Jetpack Compose ([Announcement](https://web.facebook.com/102503894902461/posts/616596090159903/), [vid1](https://youtu.be/NoweCifyqDI))
-    - GDG Assiut - Kotlin & Jetpack Compose ([Announcement](https://www.linkedin.com/feed/update/urn:li:activity:6989893269505650688/), [vid1]())
+    - GDG Assiut - Kotlin & Jetpack Compose ([Announcement](https://www.linkedin.com/feed/update/urn:li:activity:6989893269505650688/))
 ```
 Plus lots more if you have time ;)
 ```
