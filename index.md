@@ -1,39 +1,3 @@
----
-layout: default
----
-
-# Who is Shady Selim
-Father by Love ✔
-UX by Nature ✔
-Leader by Instinct ✔
-Gifted Public Speaker ✔
-Technology Savvy by Hobby ✔
-Mentor by Experience ✔
-Frontier by Choice ✔
-Mobile & Web Evangelist by Passion ✔
-Guinness World Records breaker by Strength ✔
-Mobile Developer by Profession ✔
-
-
-# Shady Selim's Bio 
-([Twitter](https://twitter.com/dr_Shady_Selim)/[LinkedIn](https://www.linkedin.com/in/shadyselim)/[Slides/Presentations](https://www.slideshare.net/bagaa)/[Videos](https://www.youtube.com/c/ShadySelimTube?view_as=subscribe&sub_confirmation=1))
-
-Shady Selim's career background includes mobile development, project management, and development advocate experience, with a history of successfully leading global teams on high-profile projects for industry giants such as IBM. He's highly skilled as a team leader, development manager, and CTO, and holds a M.Sc. in Business Information Technology from Middlesex University and an MBA from Cairo University. He's knowledgeable in many industry technologies including Android, Windows Phone 8x, iOS, Java, Kotlin, Flutter, ASP.NET, C#, VB.Net, VB Classic, PHP, Swift, jQuery, AngularJs, Action Script, and JavaScript to develop mobile and web applications and design concepts. 
-
-Dedicated to elevating teams performance through best-practice project management methods, his key focus is to exceed client and employer expectations on every project. He enjoys collaborating with clients, creative teams, and production professionals to deliver design solutions for mobile development initiatives as well as website development that drives traffic, social media engagement, high response rates and customer-acquisition results.
-
-Some of his most note-worthy projects include:
-*	Traveled across the world for IBM, training university students and administrators and other targeted customers delivering five-day programming classes on various IBM products. 
-*	Led 16 developers on rapid deployment of business-critical application for IBM. Completed project within strict one-month deadline. 
-*	Proudly serving as first and only Egyptian citizen and Arab to mentor Udacity Android Nanodegree students in physical study room environments.
-
-## Shady Selim is a/an 
-
-| Human         | Think Tank     | Mobile & Web Evangelist  |
-|:--------------|:---------------|:-------------------------|
-| Trainer       | UI/UX freak    | Official Google Speaker  |
-| Leader        | GDG Leader     | Kotlin & Flutter Speaker |
-| Mentor        | User Orineted  | Guinness Records breaker |
 
 # Shady Selim's Work History & Experience
 Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadyselim)
