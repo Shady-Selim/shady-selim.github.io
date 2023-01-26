@@ -634,15 +634,6 @@
   .bx-color:before {
     content: "\ef3c";
   }
-  .bxl-telephone:before {
-    content: "\f5b4";
-  }
-  .bxl-file:before {
-    content: "\f386";
-  }
-  .bxl-slides:before {
-    content: "\f3b4";
-  }
   .bxl-mongodb:before {
     content: "\ef3d";
   }
