@@ -640,6 +640,9 @@
   bxl-file-earmark-slides-fill:before {
     content: "\f386";
   }
+  bxl-github:before {
+    content: "\f3ed";
+  }
   bxl-file-slides-fill:before {
     content: "\f3b4";
   }
