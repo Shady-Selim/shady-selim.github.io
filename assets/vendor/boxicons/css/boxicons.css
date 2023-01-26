@@ -634,10 +634,10 @@
   .bx-color:before {
     content: "\ef3c";
   }
-  bxl-telephone-fill:before {
+  bxl-telephone-fill::before {
     content: "\f5b4";
   }
-  bxl-file-earmark-slides-fill:before {
+  bxl-file-earmark-slides-fill::before {
     content: "\f386";
   }
   bxl-github:before {
