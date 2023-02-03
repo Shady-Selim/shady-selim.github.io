@@ -1,7 +1,4 @@
 
-# Shady Selim's Work History & Experience
-Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadyselim)
-
 # Shady Selim's Post Education
 * Diploma in Web Development (**MCIT/IBM**) _2002_
 * M.Sc. in CS - Business Information Technology (**Middlesex University**) _2008-2011_
@@ -138,14 +135,9 @@ Please refer to [Shady Selim's LinkedIn page](https://www.linkedin.com/in/shadys
 * [My experience of Google IO 2016 keynote announcements](https://www.linkedin.com/pulse/my-experience-google-io-2016-keynote-announcements-shady-selim/)
 * [Google Home (or) Google Spy](https://www.linkedin.com/pulse/google-home-spy-shady-selim/)
 
-# Shady Selim's Talks
-- None Paid Volunteering Community Activities
-  - 2015
-    - 1st Google Developers Summit - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.530798273750230/530803587083032/?type=3&theater), [ann.2](https://www.facebook.com/ideaspaceXYZ/photos/a.413947235435335/542098245953566/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550669941657/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535550786608312/?type=3&theater), [img3](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/535541013275956/?type=3&theater))
-    - 1st Google Developers Summit - Deliver a crash course workshop in Google Play Game service ([Announcement](https://www.facebook.com/ideaspaceXYZ/photos/a.532928683537189/532928880203836/?type=3&theater), [img1](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/536686869828037/?type=3&theater), [img2](https://www.facebook.com/ideaspaceXYZ/photos/a.535519416611449/536693069827417/?type=3&theater))
+# 
+- 
   - 2016
-    - Global Game Jam Egypt - Speaker as a Google Expert in Google Play Game Analytics ([Announcement](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.230782967253691/233293070336014/?type=3&theater), [img1](https://www.facebook.com/Egyptian.Gaming.Community/photos/a.831896850265929/831901773598770/?type=3&theater))
-    - Global Game Jam Egypt - Joining the judging panel on behalf of GDG MENA
     - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [ann.2](https://www.facebook.com/photo.php?fbid=992760844142525&set=pb.100002258551140.-2207520000..&type=3&theater), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
     - Google MAL - Delivered a session on Google Firebase App Indexing
     - GDG 6th October DevFest - Grow you business with Player Analytics Session ([Announcement](https://www.facebook.com/events/1788941701374492/permalink/1794623064139689/), [vid1](https://youtu.be/XdcGt-hf4bs), [vid2](https://youtu.be/kUEhnZdm2D8), [img1](https://www.facebook.com/GDGOctober/photos/pcb.1800430536892275/1222254197820379/?type=3&theater))
