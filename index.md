@@ -137,12 +137,6 @@
 
 # 
 - 
-  - 2016
-    - MENA Games in Lebanon - Google Play Game service Workshop Presenter ([Announcement](https://web.archive.org/web/20160505050646/http://www.menagames.com/meet-the-speakers.html#shadyselim), [ann.2](https://www.facebook.com/photo.php?fbid=992760844142525&set=pb.100002258551140.-2207520000..&type=3&theater), [img1](https://www.facebook.com/photo.php?fbid=992762720809004&set=a.992761127475830&type=3&theater))
-    - Google MAL - Delivered a session on Google Firebase App Indexing
-    - GDG 6th October DevFest - Grow you business with Player Analytics Session ([Announcement](https://www.facebook.com/events/1788941701374492/permalink/1794623064139689/), [vid1](https://youtu.be/XdcGt-hf4bs), [vid2](https://youtu.be/kUEhnZdm2D8), [img1](https://www.facebook.com/GDGOctober/photos/pcb.1800430536892275/1222254197820379/?type=3&theater))
-    - GDG 6th October DevFest - Firebase Android Chat app workshop ([Announcement](https://www.facebook.com/events/1788941701374492/permalink/1802626096672719/?ref=1&action_history=null))
-    - Google MAL - Revised students' Android Mobile projects and presentations
   - 2017
     - TensorFlow Dev Summit 2017 Extended - Organizer ([Announcement](https://www.facebook.com/events/697466320413076/), [ann.2](https://www.facebook.com/events/697466320413076/permalink/703453319814376/))
     - Female Pioneers in IT from Egypt - Organizer ([Announcement](https://www.facebook.com/events/481395498915241/))
