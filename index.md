@@ -194,12 +194,7 @@
     - MVI Architecture for Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-mvi-architecture-for-android/),  [vid1](https://www.youtube.com/watch?v=T-GYSvbQtSk))
     - DeltaTechnopreneurs - What's new in android 12 for users and developers ([Announcement](https://web.facebook.com/DeltaTechnopreneurs/photos/a.241967595823227/4839005839452690/?type=3&theater), [vid1](https://web.facebook.com/DeltaTechnopreneurs/videos/whats-new-in-android-12-for-users-and-developers/1298544477329552))
   - 2022
-    - Have fun learning Kotlin series - Kotlin for Backend ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-1/), [vid1](https://www.youtube.com/watch?v=GqqlabM6yB4))
-    - GDSC Future Academy - Android Native (Kotlin) ([Announcement](https://www.linkedin.com/posts/gdsc-future-academy-5a8141205_solution-dsc-code-activity-6898281975870828544-eTmB), [ann.2](https://gdsc.community.dev/events/details/developer-student-clubs-future-academy-presents-android-native-kotlin-solution-challenge/), [ann.3](https://web.facebook.com/GDSCFutureAcademy/posts/pfbid0CQiN6mXZRsd8EMiDN2e9P1ZjX4vVbvuAM3qfzQkABqgC8pNhm6PhWhYxcpdRvxC1l), [vid1](https://web.facebook.com/GDSCFutureAcademy/videos/6994276413977998/))
-    - Have fun learning Kotlin series - Jetpack Compose ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-have-fun-learning-kotlin-series-session-2/), [vid1](https://www.youtube.com/watch?v=ONwNoTRh_xY), [vid2](https://web.facebook.com/Helwan.GDG/videos/953509382025987/))
-    - Google I/O Extended Helwan - Google I/O Android Updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-io-extended-2022-gdg-helwan/), [vid1](https://youtu.be/BOTPqYjCAic))
-    - GDSC Future Academy - Kotlin & Jetpack Compose ([Announcement](https://web.facebook.com/102503894902461/posts/616596090159903/), [vid1](https://youtu.be/NoweCifyqDI))
-    - GDG Assiut - Kotlin & Jetpack Compose ([Announcement](https://www.linkedin.com/feed/update/urn:li:activity:6989893269505650688/))
+    
 ```
 Plus lots more if you have time ;)
 ```
