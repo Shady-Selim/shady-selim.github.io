@@ -134,67 +134,7 @@
 * [Google Self-Driving Car, The Game Changer](https://www.linkedin.com/pulse/google-self-driving-car-game-changer-shady-selim/)
 * [My experience of Google IO 2016 keynote announcements](https://www.linkedin.com/pulse/my-experience-google-io-2016-keynote-announcements-shady-selim/)
 * [Google Home (or) Google Spy](https://www.linkedin.com/pulse/google-home-spy-shady-selim/)
-
-# 
-- 
-  - 2017
-    - 2018
-    
-  - 2019
-    - Career Launcher 6.0 - Flutter + Android + Kotlin + Sessions ([Announcement](https://www.facebook.com/kvectorfoundation/photos/gm.1246705902121259/1949158128546899/?type=3&theater), [ann.2](https://www.facebook.com/kvectorfoundation/photos/gm.1251420934983089/1954798571316188/?type=3&theater), [img1](https://www.facebook.com/kvectorfoundation/photos/pcb.1255757981216051/1959885817474130/?type=3&theater), [img2](https://www.facebook.com/kvectorfoundation/photos/pcb.1256386007819915/1960605204068858/?type=3&theater))
-    - React, PWA and Assistant Codelab - Co-Organizer ([Announcement](https://www.facebook.com/events/2083690501712330/))
-    - IEEE Kickstart in CIC Zayed - Co-Organizer ([Announcement](https://www.facebook.com/events/381702232381508/), [ann.2](https://www.facebook.com/CanadianIEEE/photos/pcb.553926785115361/838101696538404/?type=3&theater))
-    - GDG Helwan Flutter Study Jam - Organizer/Speaker for Flutter ([Announcement](https://www.facebook.com/events/286812132218314/), [img1](https://www.facebook.com/photo.php?fbid=1359712544196595&set=a.194150084086186&type=3&theater))
-    - I/O '19 Extended - Organizer/Speaker for Kotlin ([Announcement](https://www.facebook.com/events/365484854107835/), [ann.2](https://www.facebook.com/Helwan.GDG/photos/gm.368706943785626/2405930446307716/?type=3&theater), [vid1](https://youtu.be/aYGcO6qhCCA))
-    - Google I/O Extended 2019 Ismailia - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/gdgismailia1/photos/gm.712559082531838/651691952008437/?type=3&theater), [img1](https://www.facebook.com/gdgismailia1/photos/gm.717434652044281/656858548158444/?type=3&theater))
-    - Google I/O Extended 2019 Mansoura - What's New in Android Session ([Announcement](https://www.facebook.com/GDG.DeltaUniv/photos/gm.485469625558278/2457469287607564/?type=3&theater), [vid1](https://www.facebook.com/GDG.DeltaUniv/videos/vb.501607726527073/2269001999849977/?type=2&theater), [img1](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460449803976179/?type=3&theater), [img2](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460450173976142/?type=3&theater), [img3](https://www.facebook.com/GDG.DeltaUniv/photos/pcb.486895598749014/2460449907309502/?type=3&theater), [img4](https://www.facebook.com/photo.php?fbid=2334015253379615&set=a.618530434928114&type=3&theater))
-    - Google I/O '19 Extended GDG Shorouk + GDG Cairo - Kotlin Everywhere Session ([Announcement](https://www.meetup.com/GDGShorouk/photos/30188761/483323147/), [img1](https://www.facebook.com/GDGCairo/photos/pcb.399633107325160/2377800782289720/?type=3&theater), [img2](https://www.facebook.com/GDGCairo/photos/pcb.399633107325160/2377800855623046/?type=3&theater), [img3](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417835111619620/?type=3&theater), [img4](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417836561619475/?type=3&theater), [img5](https://www.facebook.com/GDGCairo/photos/pcb.410685399553264/2417836631619468/?type=3&theater))
-    - Kotlin/Everywhere - Organizer ([Announcement](https://www.facebook.com/events/365484854107835/), [img1](https://drive.google.com/file/d/1C1VVCQQk1HyFfEPKs4wdcxz5uPUfalds/view?usp=sharing), [img2](https://drive.google.com/drive/folders/1cGdHpaQsqDwkHbbqZ3KcKnRBWuj1Bhsv?fbclid=IwAR1eyF9X_q_DlxQdO99Xsa4UOugRBPBngyUiLbEUHSndusJKq3JPG4FnseE))
-    - Devfest Cairo '19 - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/GDGCairo/photos/gm.580885019320976/2516214095115054/?type=3&theater), [img1](https://www.facebook.com/GDGCairo/photos/gm.583734272369384/2523289397740857/?type=3&theater), [img2](https://www.facebook.com/GDGCairo/photos/pcb.585172138892264/2527520700651060/?type=3&theater))
-    - DevFest Shorouk 2019 - Kotlin Everywhere Session ([Announcement](https://www.facebook.com/GDGShorouk/photos/gm.2730556343670098/1906497332787017/?type=3&theater))
-    - GDG Helwan DevFest 2019- Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/264027079/))
-    - GDG DevFest Egypt - Co-Organizer ([Announcement](https://www.facebook.com/events/2118022194970365/))
-    - RiseUp Summit - Innovation, Technology, and Sustainability: Steering Change in Egypt (Session) ([Announcement](https://riseupsummit.com/workshops?fbclid=IwAR1vzGLou7J8FBti812YagakynmBMvO7HWiUVkP4Idp-iG4Xwj1nf5DwG3c), [ann.2](https://riseupsummit.com/speakers), [vid1](https://www.facebook.com/AndelaEgypt/videos/744827579356535/), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1064771713866895/1064765633867503/?type=3&theater)) 
-  - 2020
-    - ITI Global Game Jam - Session for Game Development Using Flutter ([Announcement](https://www.facebook.com/events/427144828162274/permalink/465341304342626/), [ann.2](https://www.facebook.com/AndelaEgypt/photos/pcb.1114352182242181/1114350765575656/?type=3&theater), [img1](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912275419505/?type=3&theater), [img2](https://www.facebook.com/AndelaEgypt/photos/pcb.1115915922085807/1115912362086163/?type=3&theater), [img3](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596252805687/?type=3&theater), [img4](https://www.facebook.com/IGDA.Egypt.Chapter/photos/a.1108523622812950/1108596092805703/?type=3&theater))
-    - KotlinConf 2019 Global - Co-Organizer ([Announcement](https://www.meetup.com/GDG-Helwan/events/266433824/))
-    - International Women's Day 2020 (Arab Open University) - Introduction on Mobile Development Session ([Announcement](https://www.facebook.com/GDGShorouk/photos/gm.198890121466739/2198679820235432/?type=3&theater))
-    - Swift Cairo - Kotlin/Native for iOS and Android Session ([Announcement](https://twitter.com/Andela_Egypt/status/1237021901140131840), [ann.2](https://www.meetup.com/SwiftCairo/events/269330138/), [vid1](https://www.youtube.com/watch?v=FxihiBN1f60))
-    - GDG Helwan FireBase for Web Developers - Organizer/Speaker ([Announcement](https://www.meetup.com/GDG-Helwan/events/268577253/), [ann.2](https://www.facebook.com/AndelaEgypt/posts/1185455185131880), [vid1](https://youtu.be/IvaOz55ROH0), [vid2](https://youtu.be/Wov3lwe8nYA), [vid3](https://youtu.be/A1BAPKX8lTE), [vid4](https://youtu.be/GRgXR36xaAc))
-    - MENA Digital Days - Week #4 Google Technologies - Game Development Using Flutter Online Session ([Announcement](https://twitter.com/gdgmena/status/1250838867822829568), [ann.2](https://www.meetup.com/GDG-Helwan/events/270047064/), [vid1](https://youtu.be/uCJyt2IpAlM))
-    - Developer Student Club - Cairo University - Mobile App Development Online Session ([Announcement](https://www.facebook.com/DSCCairo/photos/a.106526477584111/146417886928303/?type=3&theater), [vid1](https://youtu.be/y0222d67M0M))
-    - Android Unit Testing with Eng. Ahmed Adel - Organizer/Interviewer ([Announcement](https://www.meetup.com/GDG-Helwan/events/270671025/), [vid1](https://youtu.be/AmaHlsd4vUg))
-    - What is Kotlin Multiplaform? Why & How? Live Session ([Announcement](https://www.meetup.com/GDG-Helwan/events/270671025/), [vid1](https://youtu.be/S10PipWUeEw))
-    - Hand-on code lab creating Kotlin Multiplaform the easy way ([Announcement](https://www.linkedin.com/pulse/tutorial-your-first-kotlin-multiplatform-ios-android-shady/), [vid1](https://youtu.be/8o3IUWhLG2U))
-    - GDG Helwan Android 11 Meetup ([Announcement](https://www.meetup.com/GDG-Helwan/events/270725535/), [vid1](https://youtu.be/n2i6j9RZ4ag), [vid2](https://youtu.be/6_1zaOjo8hw), [vid3](https://youtu.be/q4mp6DAvB1k), [vid4](https://youtu.be/cEYt86goq4s))
-    - GDG Helwan Podcast#1:Fireside chat with Hassan and Moataz about tech development in Germany ([Announcement](https://www.meetup.com/GDG-Helwan/events/271223690/), [vid1](https://youtu.be/YTEUTDmLmcw))
-    - Engineerx - Mobile Developement with Flutter ([Announcement](https://www.facebook.com/EngineerexCairo/photos/a.316757325007422/3812938945389225/?type=3&theater), [vid1](https://www.facebook.com/EngineerexCairo/videos/309586763533809/))
-    - GDG Helwan Podcast#2: How to apply to international companies with Ahmed Elsawy from Andela ([Announcement](https://www.meetup.com/GDG-Helwan/events/271541264/), [vid1](https://youtu.be/YC-XfCbZPqU))
-    - GDG Cairo - Android 11 Meetup ([Announcement](https://www.facebook.com/GDGCairo/photos/gm.2884570654998843/3101827633220361/?type=3&theater), [vid1](https://youtu.be/mfbWc-7S9uA))
-    - GDG Helwan #FlutterDayMeetups Egypt ([Announcement](https://www.meetup.com/GDG-Helwan/events/271621126/), [vid1](https://www.facebook.com/GDGDamanhour/videos/960221841095090))
-    - GDG Nablus - Kotlin & Jetpack Updates for Pros ([Announcement](https://www.facebook.com/GDGNablus/photos/a.453124484708190/3650183331668940/?type=3&theater), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - Helwan DevFest '2020' ([Announcement](https://www.facebook.com/Helwan.GDG/posts/2812886838945406), [ann.2](https://www.meetup.com/GDG-Helwan/events/268749579/), [vid1](https://youtu.be/sTl6hMq6aNk))
-    - GDG Helwan & DSC Thebes Academy - Intro to Mobile Development ([vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - Azhar IEEE AI vs Brain - Guest of Honor ([Announcement](https://www.facebook.com/events/3338441169616717/))
-    - Android Study Jam (Intermediate to Advanced topics) ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-study-jam-intermediate-to-advanced-topics/), [ann.2](https://www.meetup.com/GDG-Helwan/events/275394055/), [vid1](https://youtu.be/uCT4YqO7g9g))
-    - Sprints - The Mobile Development Debate ([Announcement](https://www.facebook.com/events/409392583636344/?post_id=410646680177601), [vid1](https://www.facebook.com/watch/live/?v=692799318097966&ref=watch_permalink))
-  - 2021
-    - Podcast - Mentoring Developers (Ep.83) ([Announcement](http://mentoringdevelopers.com/), [ann.2](https://www.stitcher.com/show/mentoring-developers), [vid1](https://www.facebook.com/GDGNablus/videos/342632443414768/))
-    - Flutter Live Event ([Announcement](https://www.facebook.com/DscMaCS/posts/252977626270909), [vid1](https://youtu.be/pIR-WOxkUIY), [vid2](https://www.facebook.com/story.php?story_fbid=2906524376248318&id=1879985968902169))
-    - Android Study Jam (Intermediate to Advanced topics) ([Announcement](https://www.facebook.com/events/412953339931384?post_id=417040599522658&view=permalink), [vid1](https://youtu.be/uCT4YqO7g9g))
-    - Jetpack Compose #AndroidDevChallenge Week 1 ([Announcement](https://gdg.community.dev/e/mwf9rr/), [ann.2](https://www.meetup.com/GDG-Helwan/events/275394055/), [vid1](https://youtu.be/7HpR5A7IJIU))
-    - Jetpack Compose #AndroidDevChallenge Week 2, Let's Code Together ([Announcement](https://gdg.community.dev/e/mvxepc/), [vid1](https://youtu.be/lyhxUA-t1yE))
-    - Jetpack Compose #AndroidDevChallenge Week 3 ([Announcement](https://www.meetup.com/GDG-Helwan/events/276889717/), [vid1](https://youtu.be/D7HICl0PTKo))
-    - Jetpack Compose #AndroidDevChallenge Week 4 ([Announcement](https://www.meetup.com/GDG-Helwan/events/277057361/), [vid1](https://youtu.be/qQnnPXNcQ5w))
-    - Partnering in Android Worldwide, April 2021, 2 days Event ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-worldwide-april-2021/), [Agenda](https://www.airmeet.com/e/3a42a900-9868-11eb-bfbb-3361cd1b2fd8))
-    - Google I/O extended GDG New Cairo - What's new in Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-google-io-extended-new-cairo/), [vid1](https://fb.watch/5Qz9iOwrFs/))
-    - Kotlin Saudi - KMM ([Announcement](https://twitter.com/KotlinSaudi/status/1397197874740482050), [vid1](https://youtu.be/zLJ2xYSFcmE))
-    - Google I/O Extended Helwan - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-google-io-extended-helwan/), [vid1](https://youtu.be/Wm39ciCf4Gw))
-    - Tech Talks - Android 12 updates ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-android-12-updates/), [ann.2](https://www.meetup.com/GDG-Helwan/events/280642882/), [vid1](https://youtu.be/D2B83PZtMc8))
-    - MVI Architecture for Android ([Announcement](https://gdg.community.dev/events/details/google-gdg-helwan-presents-mvi-architecture-for-android/),  [vid1](https://www.youtube.com/watch?v=T-GYSvbQtSk))
-    - DeltaTechnopreneurs - What's new in android 12 for users and developers ([Announcement](https://web.facebook.com/DeltaTechnopreneurs/photos/a.241967595823227/4839005839452690/?type=3&theater), [vid1](https://web.facebook.com/DeltaTechnopreneurs/videos/whats-new-in-android-12-for-users-and-developers/1298544477329552))
-  - 2022
-    
+   
 ```
 Plus lots more if you have time ;)
 ```
