@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   - Embrace and love work challenges
   - Constantly learn, relearn, and unlearn current and new technologies
   - Easily adsorb new staff and share it back in a simpler form
+---
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" alt="android studio Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="kotlin Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/swift-15" alt="swift Logo" width="50" height="50"/>
